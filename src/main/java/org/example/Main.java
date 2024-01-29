@@ -35,7 +35,7 @@ public class Main {
         System.out.println("19. git pull  To pull from the remote repository all the changes that were made on brunch");
         System.out.println("20. git revert   To bring the code to the point where you started");
         System.out.println("21. git show --pretty=fuller    To view a commit");
-        System.out.println("22. git show --pretty=fuller    To view a commit");
+        System.out.println("22. git show --pretty=fuller    To view a commit tralala");
 
 
     }
