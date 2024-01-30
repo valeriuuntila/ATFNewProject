@@ -36,8 +36,16 @@ public class Main {
         System.out.println("20. git revert   To bring the code to the point where you started");
         System.out.println("21. git show --pretty=fuller    To view a commit");
         System.out.println("22. git show --pretty=fuller    To view a commit tralala");
-        // test  // test  // test
-        //First branch
+        // 1. Create repository on git hub
+        // 2. Copy repository link from git hub
+        // 3. Go to Intelej Idea and create a project
+        // 4. On menu go to git>>Manage remotes...
+        // 5. clic on "+" and add link>>click ok
+        // 6. On menu go to git>>Fetch wait message" Fetch is successful"
+        // 7. On menu go to git>>Pull
+        // 8. On menu go to git>>commit
+        // 9. On menu go to git>>Push
+        // 10. Now on repository we have the same files as on project in Intelej Idea!!!
 
     }
 }
