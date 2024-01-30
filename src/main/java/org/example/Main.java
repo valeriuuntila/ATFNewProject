@@ -47,6 +47,7 @@ public class Main {
         // 9. On menu go to git>>Push
         // 10. Now on repository we have the same files as on project in Intelej Idea!!!
         //Test
+        // In the git Pull,  is placed a branch from which the latest changes are drawn
 
 
 
