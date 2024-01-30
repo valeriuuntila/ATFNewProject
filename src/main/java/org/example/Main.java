@@ -46,6 +46,7 @@ public class Main {
         // 8. On menu go to git>>commit
         // 9. On menu go to git>>Push
         // 10. Now on repository we have the same files as on project in Intelej Idea!!!
+        //Test
 
     }
 }
