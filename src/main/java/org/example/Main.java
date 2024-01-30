@@ -49,6 +49,13 @@ public class Main {
         //Test
         // In the git Pull,  is placed a branch from which the latest changes are drawn
 
+        // After pull request>>merge is needed to update the project in Intelej Idea to be up to date:
+        //// 1. Switch to master branch git checkout master
+        //// 2. git branch  to see on which branch we are
+        //// 3. Git fetch
+        //// 4. Git pull  is needed to put the branch which is updated(main)
+        //// 5. Now the project on intelej is similar updated as repository(main) on git hub
+
 
 
     }
