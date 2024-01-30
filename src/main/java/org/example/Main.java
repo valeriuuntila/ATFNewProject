@@ -48,7 +48,7 @@ public class Main {
         // 10. Now on repository we have the same files as on project in Intelej Idea!!!
         //Test
 
-        
+
 
     }
 }
