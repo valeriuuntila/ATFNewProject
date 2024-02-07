@@ -57,6 +57,5 @@ public class Main {
         //// 5. Now the project on intelej is similar updated as repository(main) on git hub
 
 
-
     }
 }
