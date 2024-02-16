@@ -16,4 +16,5 @@ public abstract class Page {
         PageFactory.initElements(driver, this);
         scenarioContext.setCurrentPage(this);
     }
+
 }
