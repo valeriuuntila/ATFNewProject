@@ -17,7 +17,7 @@
         <cucumber-java.version>7.15.0</cucumber-java.version>
         <junit.version>4.13.2</junit.version>
         <junit-jupiter-api.version>5.10.2</junit-jupiter-api.version>
-        <selenium-java.version>4.17.0nch</selenium-java.version>
+        <selenium-java.version>4.17.0</selenium-java.version>
         <rest-assured.version>5.4.0</rest-assured.version>
         <commons-codec.version>1.16.0</commons-codec.version>
         <cucumber-core.version>7.15.0</cucumber-core.version>
