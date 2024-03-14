@@ -17,9 +17,16 @@ public class LoginPage extends Page{
     @FindBy(xpath = "//input[@type='submit']")
     private WebElement submitLogin;
 
+    @FindBy(xpath = "//div[contains(@class,'alert-danger')]")
+    private WebElement alertMessageContainer;
+
     public LoginPage() {
         super();
 
+    }
+
+    public String getAlertMessage() {
+        return alertMessageContainer.getText();
     }
 
 }
