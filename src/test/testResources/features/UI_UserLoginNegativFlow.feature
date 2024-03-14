@@ -1,24 +1,45 @@
-Feature: User Login Pozitiv Flow
+@Negative
+Feature: User Login Negativ Flow
 
   Background: User already has a created Account
-    Given User is on the Login page:"https://ecommerce-playground.lambdatest.io/index.php?route=account/login"
+    Given User is on the Login page
 
 
-  Scenario Outline: Verify If user is not able to login with invalid credentials
+  Scenario Outline: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
 
-    When the User login with the following invalid details:
-      | email   | password    |
-      | <email> | <password>> |
+    When the User enters for the "first" time the following invalid credentials: <email> and <password>
     And the User click on Login button
-    Then Error message:"!Warning:no match for E-mail Addres and/or Password." is displayed
-      Examples:
-      | email              | password  |
-      | horia.t@yahoo.com  | test_01!  |
-      | horia.t@yahoo.com  | Test-01!  |
-      | horia.t&yahoo.com  | Test_01!! |
-      | horria.t@yahoo.com | Test_01!  |
-      | horia.t@gmail.com  | Test_01!  |
-      | horia_t@yahoo.com  | Test_01!  |
+    Then Error message:"Warning: No match for E-Mail Address and/or Password." is displayed
+
+    When the User enters for the "second" time the following invalid credentials: <email> and <password>
+    And the User click on Login button
+    Then Error message:"Warning: No match for E-Mail Address and/or Password." is displayed
+
+    When the User enters for the "third" time the following invalid credentials: <email> and <password>
+    And the User click on Login button
+    Then Error message:"Warning: No match for E-Mail Address and/or Password." is displayed
+
+    When the User enters for the "fourth" time the following invalid credentials: <email> and <password>
+    And the User click on Login button
+    Then Error message:"Warning: No match for E-Mail Address and/or Password." is displayed
+
+    When the User enters for the "fifth" time the following invalid credentials: <email> and <password>
+    And the User click on Login button
+    Then Error message:"Warning: No match for E-Mail Address and/or Password." is displayed
+
+    When the User enters for the "sixth" time the following invalid credentials: <email> and <password>
+    And the User click on Login button
+    Then Error message:"Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour." is displayed
+    And User is on the Login page
+
+    Examples:
+      | email               | password  |
+      | horia.td@yahoo.com  | test_01!  |
+      | horia.ta@yahoo.com  | Test-01!  |
+      | horia.td&yahoo.com  | Test_01!! |
+      | horria.td@yahoo.com | Test_01!  |
+      | horia.t@gmail.com   | Test_01!  |
+      | horia_t@yahoo.com   | Test_01!  |
 
 
 

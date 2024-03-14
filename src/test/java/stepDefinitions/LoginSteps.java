@@ -33,5 +33,18 @@ public class LoginSteps {
         CommonActions.clickOnWebElement(loginPage.getSubmitLogin());
 
     }
+    //The second scenario (TC) User Login. Negativ Flow
+    @When("the User enters for the {} time the following invalid credentials: {} and {}")
+    public void theUserLoginWithTheFollowingInvalidDetailsAnd(String attempt, String email, String password) {
+        userLogsInByEnteringTheEmail(email);
+        userLogsInByEnteringThePassword(password);
+    }
+
+
+    @Then("Error message:{string} is displayed")
+    public void errorMessageIsDisplayed(String errorMessage) {
+        Assert.assertEquals(errorMessage, loginPage.getAlertMessage());
+    }
+
 
 }
