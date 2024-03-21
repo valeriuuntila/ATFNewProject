@@ -1,4 +1,4 @@
-@Login
+@Login @UI
 Feature: User Login Pozitiv Flow
 
   Background: User already has a created Account
