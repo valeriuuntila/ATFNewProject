@@ -1,4 +1,4 @@
-@Edit
+@Edit @UI
 Feature: Edit User Account Information
 
   Background: User already has a created Account and is logged in

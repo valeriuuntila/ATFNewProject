@@ -17,7 +17,7 @@ public class Hooks {
     private final WebDriverProvider webDriverProvider = new WebDriverProvider();
     public static Scenario currentScenario;
 
-    @Before
+    @Before("@UI")
     public void before(Scenario scenario) {
         Log.startTestCase("Testing started");
         ScreenShotUtil.setScenario(scenario);
@@ -32,13 +32,13 @@ public class Hooks {
         Log.info("Starting scenario: " + scenario.getName());
     }
 
-    @AfterStep
+    @AfterStep("@UI")
     public void afterStep(Scenario scenario) throws Exception {
         currentScenario = scenario;
         ScreenShotUtil.takeScreenShot(Thread.currentThread().getStackTrace()[1].getMethodName());
     }
 
-    @After
+    @After("@UI")
     public void after(Scenario scenario) {
         currentScenario = scenario;
         Log.info("Finished scenario: " + scenario.getName());

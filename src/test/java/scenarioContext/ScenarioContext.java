@@ -1,6 +1,7 @@
 package scenarioContext;
 
 import io.cucumber.java.Scenario;
+import io.restassured.response.Response;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 import pageObjects.Page;
@@ -14,6 +15,8 @@ public class ScenarioContext {
     private static Page currentPage;
     private Scenario scenario;
     private static WebElement webElement;
+
+    public static Response response;
 
     private ScenarioContext() {
     }

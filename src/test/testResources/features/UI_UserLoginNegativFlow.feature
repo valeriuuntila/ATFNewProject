@@ -1,4 +1,4 @@
-@Negative
+@Negative @UI
 Feature: User Login Negativ Flow
 
   Background: User already has a created Account

@@ -31,6 +31,9 @@
         <log4j-core.version>2.22.1</log4j-core.version>
         <reflections.version>0.10.2</reflections.version>
         <javafaker.version>1.0.2</javafaker.version>
+        <json-path.version>5.4.0</json-path.version>
+        <xml-path.version>5.4.0</xml-path.version>
+        <json-schema-validator.version>5.4.0</json-schema-validator.version>
 
     </properties>
     <dependencies>
@@ -158,7 +161,23 @@
             <artifactId>javafaker</artifactId>
             <version>${javafaker.version}</version>
         </dependency>
-
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>json-path</artifactId>
+            <version>${json-path.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>xml-path</artifactId>
+            <version>${xml-path.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>json-schema-validator</artifactId>
+            <version>${json-schema-validator.version}</version>
+        </dependency>
 
     </dependencies>
 
