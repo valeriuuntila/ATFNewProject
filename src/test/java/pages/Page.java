@@ -1,11 +1,11 @@
-package pageObjects;
+package pages;
 
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
-import scenarioContext.ScenarioContext;
+import scenariocontext.ScenarioContext;
 
-import static stepDefinitions.Hooks.driver;
+import static steps.Hooks.driver;
 
 public abstract class Page {
 

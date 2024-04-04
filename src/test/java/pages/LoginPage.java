@@ -1,11 +1,11 @@
-package pageObjects;
+package pages;
 
-import lombok.Getter;
+//import lombok.Getter;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 
-@Getter
+//@Getter
 public class LoginPage extends Page{
 
     @FindBy(xpath = "//input[@id='input-email']")
@@ -22,7 +22,22 @@ public class LoginPage extends Page{
 
     public LoginPage() {
         super();
+    }
 
+    public WebElement getEmailInput() {
+        return emailInput;
+    }
+
+    public WebElement getPasswordInput() {
+        return passwordInput;
+    }
+
+    public WebElement getSubmitLogin() {
+        return submitLogin;
+    }
+
+    public WebElement getAlertMessageContainer() {
+        return alertMessageContainer;
     }
 
     public String getAlertMessage() {

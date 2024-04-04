@@ -2,8 +2,8 @@
 Feature: Edit User Account Information
 
   Background: User already has a created Account and is logged in
-    Given user logs in by entering the email:"horia.td@yahoo.com"
-    And user logs in by entering the password:"Test_01!"
+    Given user logs in by entering the email: "horia.td@yahoo.com"
+    And user logs in by entering the password: "Test_01!"
     And the User click on Login button
     And the User is redirected to the Account page
     And The User Goes to Edit Account page

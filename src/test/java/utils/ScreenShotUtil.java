@@ -4,7 +4,7 @@ import io.cucumber.java.Scenario;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
-import stepDefinitions.Hooks;
+import steps.Hooks;
 
 import java.io.File;
 import java.text.SimpleDateFormat;

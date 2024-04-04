@@ -33,13 +33,13 @@ Feature: User Login Negativ Flow
     And User is on the Login page
 
     Examples:
-      | email               | password  |
-      | horia.td@yahoo.com  | test_01!  |
-      | horia.ta@yahoo.com  | Test-01!  |
-      | horia.td&yahoo.com  | Test_01!! |
-      | horria.td@yahoo.com | Test_01!  |
-      | horia.t@gmail.com   | Test_01!  |
-      | horia_t@yahoo.com   | Test_01!  |
+      | email                | password  |
+      | horia.tdz@yahoo.com  | test_01!  |
+      | horia.taz@yahoo.com  | Test-01!  |
+      | horia.tdz&yahoo.com  | Test_01!! |
+      | horria.tdz@yahoo.com | Test_01!  |
+      | horia.tz@gmail.com   | Test_01!  |
+      | horia_tz@yahoo.com   | Test_01!  |
 
 
 

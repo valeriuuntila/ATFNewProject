@@ -1,11 +1,7 @@
-package pageObjects;
+package pages;
 
-import actions.CommonActions;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-
-import java.util.List;
-
 public class AccountPage extends Page {
     @FindBy(xpath = "//h2[text()='My Account']")
     private WebElement openAccountPageTitle;
@@ -16,28 +12,24 @@ public class AccountPage extends Page {
     @FindBy(xpath = "//div[contains(@class,'alert-success')]")
     private WebElement alertSuccessMessageContainer;
 
-    @FindBy(xpath = "//a[text()=' Edit your account information']/i")
+    @FindBy(xpath = "//a[text()=' Edit your account information']")
     private WebElement editAccountIcon;
 
+    public AccountPage() {
+        super();
+    }
 
     public WebElement getOpenAccountPageTitle() {
         return openAccountPageTitle;
     }
-
     public WebElement getSubmitContinue() {
         return submitContinue;
     }
-
     public WebElement getAlertSuccessMessageContainer() {
         return alertSuccessMessageContainer;
     }
-
     public WebElement getEditAccountIcon() {
         return editAccountIcon;
-    }
-
-    public AccountPage() {
-        super();
     }
 
 }

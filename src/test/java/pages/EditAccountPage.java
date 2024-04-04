@@ -1,4 +1,4 @@
-package pageObjects;
+package pages;
 
 import actions.CommonActions;
 import org.openqa.selenium.WebElement;
@@ -25,23 +25,18 @@ public class EditAccountPage extends Page {
     public EditAccountPage() {
         super();
     }
-
     public WebElement getEditAccountPage() {
         return EditAccountPage;
     }
-
     public WebElement getSubmitContinue() {
         return submitContinue;
     }
-
     public WebElement getAlertSuccessMessageContainer() {
         return alertSuccessMessageContainer;
     }
-
     public List<WebElement> getInputFields() {
         return inputFields;
     }
-
     public void setInput(String inputName, String value) {
         CommonActions.sendKeys(getInputByName(inputName), value);
     }

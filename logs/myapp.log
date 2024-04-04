@@ -1,0 +1,2060 @@
+2024-03-27 16:08:18.319 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-27 16:08:25.267 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-27 16:08:25.324 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-27 16:08:25.350 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-27 16:08:27.239 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-27 16:11:18.678 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-27 16:11:21.267 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-27 16:11:24.937 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-27 16:11:25.144 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-27 16:11:25.145 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-27 16:11:29.465 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-27 16:11:29.500 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-27 16:11:29.814 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-27 16:21:38.827 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-27 16:21:42.056 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-27 16:21:45.719 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-27 16:21:45.905 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-27 16:21:45.906 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-27 16:21:46.847 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-03-27 16:21:47.515 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-27 16:21:49.963 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-27 16:21:50.008 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-27 16:21:50.349 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-27 16:24:06.278 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-27 16:24:08.801 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-27 16:24:12.484 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-27 16:24:12.695 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-27 16:24:12.696 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-27 16:24:13.429 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-03-27 16:24:13.992 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-27 16:24:16.586 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-27 16:24:16.626 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-27 16:24:16.985 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-27 17:37:21.708 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-27 17:37:24.853 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-27 17:37:28.503 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-27 17:37:28.659 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-27 17:37:28.660 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-27 17:37:29.484 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-03-27 17:37:29.966 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-27 17:37:31.981 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-27 17:37:32.005 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-27 17:37:32.304 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-27 17:41:29.065 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-27 17:41:31.578 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-27 17:41:35.041 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-27 17:41:35.213 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-27 17:41:35.214 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-27 17:41:36.059 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-27 17:41:36.576 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-27 17:41:38.401 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-27 17:41:38.428 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-27 17:41:38.732 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-27 17:56:29.177 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-27 17:56:31.993 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-27 17:56:35.645 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-27 17:56:35.818 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-27 17:56:35.819 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-27 17:56:36.595 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-27 17:56:37.053 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-27 17:56:38.916 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-27 17:56:38.949 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-27 17:56:39.299 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-27 17:59:57.284 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-27 18:00:00.302 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-27 18:00:04.079 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-27 18:00:04.237 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-27 18:00:04.238 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-03-27 18:00:05.156 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-03-27 18:00:05.422 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-03-27 18:00:06.370 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:00:07.003 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-03-27 18:00:07.255 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-03-27 18:00:08.088 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:00:08.688 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-03-27 18:00:08.905 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-03-27 18:00:09.756 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:00:10.375 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-03-27 18:00:10.588 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-03-27 18:00:11.359 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:00:11.988 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-03-27 18:00:12.207 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-03-27 18:00:12.989 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:00:13.589 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-03-27 18:00:13.804 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-03-27 18:00:14.704 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:00:15.287 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-03-27 18:00:15.323 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-27 18:00:15.589 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-27 18:00:19.483 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-27 18:00:23.165 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-27 18:00:23.317 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-27 18:00:23.318 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-03-27 18:00:24.000 [main] INFO  utils.LogsConfig - horia.ta@yahoo.com was inserted into input
+2024-03-27 18:00:24.254 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-03-27 18:00:25.180 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:00:25.788 [main] INFO  utils.LogsConfig - horia.ta@yahoo.com was inserted into input
+2024-03-27 18:00:26.009 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-03-27 18:00:26.792 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:00:27.183 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-03-27 18:00:27.209 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-27 18:00:27.547 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-27 18:00:31.706 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-27 18:00:35.810 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-27 18:00:35.962 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-27 18:00:35.962 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-03-27 18:00:36.668 [main] INFO  utils.LogsConfig - horia.td&yahoo.com was inserted into input
+2024-03-27 18:00:36.921 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-03-27 18:00:37.923 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:00:38.555 [main] INFO  utils.LogsConfig - horia.td&yahoo.com was inserted into input
+2024-03-27 18:00:38.802 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-03-27 18:00:39.586 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:00:39.963 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-03-27 18:00:39.985 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-27 18:00:40.242 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-27 18:00:42.607 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-27 18:00:46.206 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-27 18:00:46.338 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-27 18:00:46.339 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-03-27 18:00:46.964 [main] INFO  utils.LogsConfig - horria.td@yahoo.com was inserted into input
+2024-03-27 18:00:47.234 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-27 18:00:48.093 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:00:48.721 [main] INFO  utils.LogsConfig - horria.td@yahoo.com was inserted into input
+2024-03-27 18:00:48.920 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-27 18:00:49.712 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:00:50.084 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-03-27 18:00:50.109 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-27 18:00:50.393 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-27 18:00:52.586 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-27 18:00:56.730 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-27 18:00:56.861 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-27 18:00:56.861 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-03-27 18:00:57.459 [main] INFO  utils.LogsConfig - horia.t@gmail.com was inserted into input
+2024-03-27 18:00:57.666 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-27 18:00:58.548 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:00:59.166 [main] INFO  utils.LogsConfig - horia.t@gmail.com was inserted into input
+2024-03-27 18:00:59.380 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-27 18:01:00.169 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:01:00.569 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-03-27 18:01:00.596 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-27 18:01:00.847 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-27 18:01:04.554 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-27 18:01:08.365 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-27 18:01:08.491 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-27 18:01:08.491 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-03-27 18:01:09.164 [main] INFO  utils.LogsConfig - horia_t@yahoo.com was inserted into input
+2024-03-27 18:01:09.378 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-27 18:01:10.242 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:01:10.836 [main] INFO  utils.LogsConfig - horia_t@yahoo.com was inserted into input
+2024-03-27 18:01:11.035 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-27 18:01:11.877 [main] INFO  utils.LogsConfig - input was clicked
+2024-03-27 18:01:12.263 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-03-27 18:01:12.287 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-27 18:01:12.527 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 09:21:00.174 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 09:21:06.583 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 09:21:10.118 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 09:21:10.285 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 09:21:10.286 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 09:21:11.006 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 09:21:11.504 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 09:21:13.550 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 09:21:13.581 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 09:21:14.108 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 09:58:12.368 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 09:58:14.792 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 09:58:19.115 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 09:58:19.263 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 09:58:19.263 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 09:58:19.958 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 09:58:20.326 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 09:58:22.825 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 09:58:22.851 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 09:58:23.219 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 10:00:38.954 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 10:00:41.323 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 10:00:46.173 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 10:00:46.318 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 10:00:46.319 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 10:00:47.071 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 10:00:47.524 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 10:00:50.268 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 10:00:50.301 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 10:00:50.717 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 10:10:00.993 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 10:10:03.536 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 10:10:06.030 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 10:10:06.908 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 10:10:06.908 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 10:10:07.614 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 10:10:08.061 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 10:10:09.828 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 10:10:09.848 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 10:10:10.221 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 10:14:29.501 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 10:14:32.095 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 10:14:35.636 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 10:14:35.790 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 10:14:35.791 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 10:14:36.594 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 10:14:37.067 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 10:14:43.226 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 10:14:43.254 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 10:14:43.677 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 10:16:47.369 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 10:16:50.324 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 10:16:53.508 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 10:16:53.651 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 10:16:53.652 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 10:16:54.429 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 10:16:54.908 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 10:16:56.756 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 10:16:56.780 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 10:16:57.156 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 10:18:59.842 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 10:19:02.536 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 10:19:05.798 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 10:19:05.947 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 10:19:05.947 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 10:19:06.771 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 10:19:07.290 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 10:19:09.081 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 10:19:09.104 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 10:19:09.556 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 10:21:55.965 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 10:21:59.356 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 10:22:02.921 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 10:22:03.070 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 10:22:03.070 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 10:22:03.894 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 10:22:04.346 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 10:27:43.219 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 10:27:45.814 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 10:27:49.011 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 10:27:49.141 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 10:27:49.143 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 10:27:50.022 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 10:27:50.609 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 10:28:34.353 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 10:28:34.413 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 10:28:35.862 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 10:29:46.703 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 10:29:49.168 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 10:29:52.956 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 10:29:53.103 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 10:29:53.103 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 10:29:53.905 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 10:29:54.356 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 10:29:57.324 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 10:29:57.346 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 10:29:57.670 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 11:42:41.776 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 11:42:44.340 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 11:42:47.679 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 11:42:47.835 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 11:42:47.835 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 11:42:48.611 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 11:42:49.140 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 11:42:50.986 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 11:42:51.010 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 11:42:51.236 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 11:44:29.832 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 11:44:32.928 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 11:44:36.216 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 11:44:36.416 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 11:44:36.416 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 11:44:37.261 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 11:44:37.907 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 11:46:17.942 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 11:46:20.493 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 11:46:23.687 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 11:46:23.836 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 11:46:23.837 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 11:46:24.622 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 11:46:25.128 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 11:51:34.396 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 11:51:36.895 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 11:51:40.150 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 11:51:40.298 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 11:51:40.299 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 11:51:41.197 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 11:51:41.671 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 11:51:43.419 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 11:51:43.445 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 11:51:43.717 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 11:52:33.500 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 11:52:36.029 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 11:52:41.197 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 11:52:41.351 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 11:52:41.351 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 11:52:42.088 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 11:52:42.554 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 11:52:45.491 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 11:52:45.514 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 11:52:45.805 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 13:47:47.419 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 13:47:50.264 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 13:47:53.693 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 13:47:53.847 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 13:47:53.849 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 13:47:54.523 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 13:47:54.940 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 15:35:31.963 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 15:35:35.279 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 15:35:39.037 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 15:35:39.182 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 15:35:39.182 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 15:35:40.040 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 15:35:40.648 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 15:35:42.792 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 15:35:42.824 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 15:35:43.154 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 15:42:23.538 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 15:42:26.170 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 15:42:29.905 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 15:42:30.059 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 15:42:30.060 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 15:42:30.907 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 15:42:31.562 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 15:42:33.831 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 15:42:33.875 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 15:42:34.169 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 15:46:36.110 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 15:46:38.645 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 15:46:42.110 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 15:46:42.278 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 15:46:42.278 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 15:46:43.018 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 15:46:43.638 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 15:46:45.722 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 15:46:45.767 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 15:46:46.026 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 15:54:14.115 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 15:54:16.806 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 15:54:20.396 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 15:54:20.584 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 15:54:20.584 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 15:54:21.411 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 15:54:22.177 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 15:54:24.608 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 15:54:24.657 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 15:54:24.946 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 16:10:34.028 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 16:10:36.673 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 16:10:40.257 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 16:10:40.419 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 16:10:40.420 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 16:10:41.167 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 16:10:41.803 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 16:10:44.127 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 16:10:44.165 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 16:10:44.470 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 16:11:49.758 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 16:11:52.055 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 16:11:56.888 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 16:11:57.039 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 16:11:57.039 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 16:11:58.024 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 16:11:58.696 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 16:12:01.105 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 16:12:01.135 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 16:12:01.398 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 16:13:28.891 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 16:13:31.188 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 16:13:34.962 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 16:13:35.096 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 16:13:35.098 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 16:13:35.835 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 16:13:36.432 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 16:13:38.552 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 16:13:38.596 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 16:13:38.912 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 16:13:55.489 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 16:13:57.874 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 16:14:01.426 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 16:14:01.581 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 16:14:01.581 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 16:14:02.303 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 16:14:02.852 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 16:14:05.186 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 16:14:05.218 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 16:14:05.480 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 16:16:23.671 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 16:16:26.047 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 16:16:30.011 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 16:16:30.152 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 16:16:30.153 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 16:16:31.059 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 16:16:31.675 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 16:16:34.585 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 16:16:34.633 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 16:16:34.935 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 16:18:18.782 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 16:18:21.167 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 16:18:24.529 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 16:18:24.696 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 16:18:24.696 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 16:18:25.535 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 16:18:26.108 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 16:18:28.609 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 16:18:28.647 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 16:18:28.961 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 16:24:37.632 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 16:24:40.370 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 16:24:44.112 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 16:24:44.291 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 16:24:44.293 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 16:24:45.235 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 16:24:46.054 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 16:24:48.351 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 16:24:48.390 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 16:24:48.730 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 16:30:34.696 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 16:30:37.542 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 16:30:41.198 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 16:30:41.342 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 16:30:41.344 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 16:30:42.223 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 16:30:43.133 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 16:30:45.459 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 16:30:45.491 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 16:30:45.821 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 16:31:37.302 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 16:33:19.322 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 16:33:21.541 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 16:33:25.099 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 16:33:25.263 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 16:33:25.263 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 16:33:26.052 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 16:33:26.711 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 16:33:28.983 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 16:33:29.027 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 16:33:29.327 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 16:41:42.433 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 16:41:45.683 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 16:41:50.314 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 16:41:50.468 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 16:41:50.470 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 16:41:51.600 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 16:41:52.192 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 16:41:54.819 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 16:41:54.862 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 16:41:55.148 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 16:44:32.265 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 16:44:34.481 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 16:44:38.968 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 16:44:39.117 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 16:44:39.117 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 16:44:40.105 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 16:44:40.814 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 16:44:45.818 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 16:44:45.853 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 16:44:46.128 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 16:45:56.885 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 16:45:59.873 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 16:46:03.439 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 16:46:03.595 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 16:46:03.596 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 16:46:04.423 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 16:46:05.094 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 16:46:07.321 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 16:46:07.362 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 16:46:07.635 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 16:49:21.841 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 16:49:24.044 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 16:49:27.562 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 16:49:27.727 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 16:49:27.727 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 16:49:28.472 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 16:49:29.113 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 16:49:31.104 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 16:49:31.150 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 16:49:31.449 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 17:04:21.219 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 17:04:24.453 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 17:04:28.214 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 17:04:28.380 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 17:04:28.382 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 17:04:29.382 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 17:04:30.204 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 17:04:32.187 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 17:04:32.235 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 17:04:32.540 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 17:10:53.177 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 17:10:55.854 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 17:10:59.377 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 17:10:59.530 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 17:10:59.531 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 17:11:00.395 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 17:11:01.053 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 17:11:03.320 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 17:11:03.359 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 17:11:03.632 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 17:11:54.160 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 17:11:56.438 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 17:11:59.861 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 17:11:59.997 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 17:11:59.997 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 17:12:00.771 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 17:12:01.380 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 17:12:05.346 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 17:12:05.375 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 17:12:05.648 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 17:35:17.442 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 17:35:24.166 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 17:35:27.833 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 17:35:27.991 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 17:35:27.991 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 17:35:29.010 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 17:35:29.593 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 17:35:31.728 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 17:35:31.762 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 17:35:32.071 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 17:38:23.651 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 17:38:26.387 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 17:38:30.104 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 17:38:30.261 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 17:38:30.263 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 17:38:31.118 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 17:38:31.791 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 17:43:35.730 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 17:43:38.738 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 17:43:42.803 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 17:43:42.937 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 17:43:42.938 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 17:43:43.620 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 17:43:44.003 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 17:43:46.868 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 17:43:46.899 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 17:43:47.134 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 17:50:57.545 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 17:50:59.667 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 17:51:03.134 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 17:51:03.265 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 17:51:03.266 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 17:51:03.936 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 17:51:04.341 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 17:51:06.203 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 17:51:06.232 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 17:51:06.451 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 17:51:33.663 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 17:51:35.635 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 17:51:38.949 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 17:51:39.095 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 17:51:39.095 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 17:51:39.791 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 17:51:40.166 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 17:51:41.909 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 17:51:41.941 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 17:51:42.145 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 17:57:08.589 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 17:57:10.867 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 17:57:14.192 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 17:57:14.322 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 17:57:14.323 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 17:57:15.046 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 17:57:15.456 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 17:57:17.146 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 17:57:17.174 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 17:57:17.390 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 17:58:21.171 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 17:58:23.177 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 17:58:26.601 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 17:58:26.754 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 17:58:26.755 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 17:58:27.517 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 17:59:32.478 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:02:48.596 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:02:48.620 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 18:02:48.893 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 18:03:59.548 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:04:10.926 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:04:13.593 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:04:16.750 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:04:16.885 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:04:16.886 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:04:17.759 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:04:18.221 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:08:46.492 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:08:49.061 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:08:56.819 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:08:56.952 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:08:56.952 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:09:07.320 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:09:23.990 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:09:26.679 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:09:30.017 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:09:30.164 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:09:30.164 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:09:30.923 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:09:31.355 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:09:33.156 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:09:33.182 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 18:09:33.489 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 18:11:02.988 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:11:05.387 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:11:08.660 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:11:08.810 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:11:08.810 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:11:09.572 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:11:10.060 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:11:11.976 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:11:12.001 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 18:11:12.278 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 18:15:35.601 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:15:38.232 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:15:41.492 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:15:41.642 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:15:41.642 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:15:42.488 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:15:42.939 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:17:11.843 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:17:11.868 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 18:17:12.150 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 18:17:29.498 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:17:31.782 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:17:34.988 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:17:35.125 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:17:35.126 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:17:35.827 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:17:36.284 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:17:38.228 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:17:38.250 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 18:17:38.469 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 18:18:40.489 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:18:42.404 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:18:45.832 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:18:45.974 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:18:45.974 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:18:46.708 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:18:47.144 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:18:49.133 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:18:49.161 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 18:18:49.407 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 18:20:57.147 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:20:59.407 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:21:02.718 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:21:02.850 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:21:02.850 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:21:03.607 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:21:04.067 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:21:05.740 [main] INFO  utils.LogsConfig - Click on element: 
+2024-03-28 18:21:06.110 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:21:06.136 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 18:21:06.424 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 18:29:04.620 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:29:07.645 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:29:10.941 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:29:11.100 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:29:11.100 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:29:11.830 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:29:12.263 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:29:13.883 [main] INFO  utils.LogsConfig - Click on element: 
+2024-03-28 18:29:14.262 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:29:14.290 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 18:29:14.576 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 18:30:16.517 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:30:19.014 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:30:22.353 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:30:22.498 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:30:22.498 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:30:23.338 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:30:23.824 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:30:25.415 [main] INFO  utils.LogsConfig - Click on element: 
+2024-03-28 18:30:25.837 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:30:25.862 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 18:30:26.144 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 18:31:09.280 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:31:11.854 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:31:15.033 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:31:15.204 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:31:15.205 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:31:16.019 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:31:16.562 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:31:18.251 [main] INFO  utils.LogsConfig - Click on element: 
+2024-03-28 18:31:18.709 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:31:18.739 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 18:31:19.128 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 18:31:57.760 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:32:00.341 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:32:03.497 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:32:03.645 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:32:03.645 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:32:04.616 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:32:05.147 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:32:06.804 [main] INFO  utils.LogsConfig - Click on element: 
+2024-03-28 18:32:07.264 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:32:07.290 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 18:32:07.551 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 18:32:37.581 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:32:40.019 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:32:43.292 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:32:43.460 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:32:43.460 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:32:44.241 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:32:44.916 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:35:47.821 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:35:50.222 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:35:53.843 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:35:53.991 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:35:53.991 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:35:54.959 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:35:55.653 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:35:57.505 [main] INFO  utils.LogsConfig - Click on element: 
+2024-03-28 18:35:58.149 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:35:58.188 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 18:35:58.522 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 18:36:26.239 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:36:29.042 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:36:32.315 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:36:32.457 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:36:32.457 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:36:33.567 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:36:34.163 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:37:39.954 [main] INFO  utils.LogsConfig - Click on element: 
+2024-03-28 18:37:47.437 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:37:50.185 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:37:53.333 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:37:53.467 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:37:53.467 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:37:54.329 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:37:54.890 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:40:32.512 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:40:35.381 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:40:38.698 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:40:38.828 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:40:38.829 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:40:39.633 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:40:40.073 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:41:59.230 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-03-28 18:42:03.993 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:42:04.022 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 18:42:04.299 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-28 18:42:22.006 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-28 18:42:24.495 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-28 18:42:27.852 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-28 18:42:27.994 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-28 18:42:27.995 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-28 18:42:28.862 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-28 18:42:29.290 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-28 18:42:30.879 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-03-28 18:42:31.269 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-28 18:42:31.300 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-28 18:42:31.545 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-29 16:29:48.288 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-29 16:29:52.569 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-29 16:29:56.194 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-29 16:29:56.326 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-29 16:29:56.327 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-29 16:29:57.039 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-29 16:29:57.410 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-29 16:29:59.274 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-03-29 16:29:59.697 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-29 16:29:59.719 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-29 16:30:00.030 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-29 16:32:01.307 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-29 16:32:03.416 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-29 16:32:06.876 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-29 16:32:07.023 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-29 16:32:07.024 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-29 16:32:07.656 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-29 16:32:08.060 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-29 16:32:08.458 [main] INFO  utils.LogsConfig - Click on element: input
+2024-03-29 16:32:08.831 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-29 16:32:08.851 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-29 16:32:09.165 [main] INFO  utils.LogsConfig - Driver closed
+2024-03-29 16:33:28.174 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-03-29 16:33:30.176 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-03-29 16:33:33.832 [main] INFO  utils.LogsConfig - Web application launched
+2024-03-29 16:33:33.974 [main] INFO  utils.LogsConfig - Window maximized
+2024-03-29 16:33:33.975 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-03-29 16:33:34.597 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-03-29 16:33:34.984 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-03-29 16:33:36.917 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-03-29 16:33:37.262 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-03-29 16:33:37.286 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-03-29 16:33:37.531 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 09:17:44.154 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 09:17:50.627 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 09:17:53.951 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 09:17:54.108 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 09:17:54.109 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 09:17:55.231 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 09:17:55.866 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 09:17:57.968 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 09:17:58.537 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 09:17:58.574 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 09:17:58.955 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 09:38:36.518 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 09:38:41.747 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 09:38:44.979 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 09:38:45.136 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 09:38:45.137 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 09:38:46.101 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 09:38:46.928 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 09:38:49.179 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 09:38:49.667 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 09:38:49.726 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 09:38:50.444 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 09:40:54.204 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 09:40:57.623 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 09:41:00.961 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 09:41:01.139 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 09:41:01.140 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 09:41:01.956 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 09:41:02.663 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 09:41:05.066 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 09:41:05.611 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 09:41:05.657 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 09:41:06.321 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 09:53:39.750 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 09:53:42.506 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 09:53:46.089 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 09:53:46.331 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 09:53:46.332 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 09:53:47.126 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 09:53:47.740 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 09:53:50.854 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 09:53:50.892 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 09:53:51.331 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 09:57:54.654 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 09:57:57.351 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 09:58:00.619 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 09:58:00.815 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 09:58:00.816 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 09:58:01.995 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 09:58:03.267 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 09:58:05.439 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 09:58:05.936 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 09:58:05.971 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 09:58:06.251 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 10:01:01.985 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 10:01:04.324 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 10:01:07.496 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 10:01:07.634 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 10:01:07.634 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 10:01:08.401 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 10:01:08.899 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 10:01:11.249 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 10:01:11.770 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 10:01:11.815 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 10:01:12.285 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 10:02:17.459 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 10:02:19.951 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 10:02:23.603 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 10:02:23.768 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 10:02:23.768 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 10:02:24.542 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 10:02:25.168 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 10:02:27.524 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 10:02:27.565 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 10:02:27.892 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 11:48:03.522 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 11:48:06.447 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 11:48:09.771 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 11:48:09.905 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 11:48:09.905 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 11:48:10.594 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 11:48:11.058 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 11:48:12.702 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 11:48:12.915 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-01 11:48:13.077 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 11:48:13.101 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 11:48:13.358 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 11:56:20.202 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 11:56:22.438 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 11:56:25.972 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 11:56:26.105 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 11:56:26.106 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 11:56:26.856 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 11:56:27.291 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 11:56:28.830 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 11:56:29.055 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-01 11:56:29.208 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 11:56:29.234 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 11:56:29.456 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 11:59:50.880 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 11:59:53.276 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 11:59:56.636 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 11:59:56.790 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 11:59:56.791 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 11:59:57.050 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 11:59:57.659 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 11:59:58.170 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 11:59:59.745 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 11:59:59.973 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-01 12:00:00.188 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 12:00:00.216 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 12:00:00.609 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 12:29:44.506 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 12:29:47.171 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 12:29:50.877 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 12:29:51.069 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 12:29:51.070 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-01 12:29:51.400 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 12:29:52.011 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-01 12:29:52.363 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:29:53.345 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:29:54.029 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-01 12:29:54.292 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:29:55.184 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:29:55.834 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-01 12:29:56.096 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:29:56.973 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:29:57.603 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-01 12:29:57.841 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:29:58.721 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:29:59.272 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-01 12:29:59.505 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:30:00.311 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:30:00.936 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-01 12:30:01.188 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:30:02.036 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:30:02.450 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 12:30:02.620 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-01 12:30:02.649 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 12:30:02.925 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 12:40:54.536 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 12:40:57.107 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 12:41:00.580 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 12:41:00.743 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 12:41:00.745 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-01 12:41:01.033 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 12:41:01.611 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-01 12:41:01.929 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:41:02.848 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:41:03.307 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-01 12:41:03.337 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 12:41:03.662 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 12:42:38.020 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 12:42:40.507 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 12:42:43.875 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 12:42:44.027 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 12:42:44.027 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-01 12:42:44.325 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 12:42:44.902 [main] INFO  utils.LogsConfig - horia.tdm@yahoo.com was inserted into input
+2024-04-01 12:42:45.229 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:42:46.142 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:42:46.826 [main] INFO  utils.LogsConfig - horia.tdm@yahoo.com was inserted into input
+2024-04-01 12:42:47.071 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:42:47.893 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:42:48.481 [main] INFO  utils.LogsConfig - horia.tdm@yahoo.com was inserted into input
+2024-04-01 12:42:48.707 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:42:49.506 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:42:50.104 [main] INFO  utils.LogsConfig - horia.tdm@yahoo.com was inserted into input
+2024-04-01 12:42:50.343 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:42:51.152 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:42:51.728 [main] INFO  utils.LogsConfig - horia.tdm@yahoo.com was inserted into input
+2024-04-01 12:42:51.959 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:42:52.723 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:42:53.338 [main] INFO  utils.LogsConfig - horia.tdm@yahoo.com was inserted into input
+2024-04-01 12:42:53.585 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:42:54.383 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:42:54.762 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 12:42:54.942 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-01 12:42:54.970 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 12:42:55.226 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 12:45:36.783 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 12:45:39.863 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 12:45:43.218 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 12:45:43.394 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 12:45:43.394 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-01 12:45:43.727 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 12:45:44.302 [main] INFO  utils.LogsConfig - horia.tdn@yahoo.com was inserted into input
+2024-04-01 12:45:44.592 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:45:45.482 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:45:46.183 [main] INFO  utils.LogsConfig - horia.tdn@yahoo.com was inserted into input
+2024-04-01 12:45:46.580 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:45:47.420 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:45:48.040 [main] INFO  utils.LogsConfig - horia.tdn@yahoo.com was inserted into input
+2024-04-01 12:45:48.283 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:45:49.087 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:45:49.708 [main] INFO  utils.LogsConfig - horia.tdn@yahoo.com was inserted into input
+2024-04-01 12:45:49.953 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:45:50.794 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:45:51.399 [main] INFO  utils.LogsConfig - horia.tdn@yahoo.com was inserted into input
+2024-04-01 12:45:51.632 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:45:52.587 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:45:53.194 [main] INFO  utils.LogsConfig - horia.tdn@yahoo.com was inserted into input
+2024-04-01 12:45:53.441 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:45:54.338 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:45:54.774 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 12:45:54.953 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-01 12:45:54.981 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 12:45:55.289 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 12:52:27.976 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 12:52:32.663 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 12:52:36.623 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 12:52:36.782 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 12:52:36.784 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-01 12:52:37.127 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 12:52:37.676 [main] INFO  utils.LogsConfig - horia.tdi@yahoo.com was inserted into input
+2024-04-01 12:52:37.950 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:52:38.912 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:52:39.174 [main] INFO  utils.LogsConfig - Warning: No match for E-Mail Address and/or Password.for login attempts with invalid credentials
+2024-04-01 12:52:39.615 [main] INFO  utils.LogsConfig - horia.tdi@yahoo.com was inserted into input
+2024-04-01 12:52:39.881 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:52:40.822 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:52:41.075 [main] INFO  utils.LogsConfig - Warning: No match for E-Mail Address and/or Password.for login attempts with invalid credentials
+2024-04-01 12:52:41.474 [main] INFO  utils.LogsConfig - horia.tdi@yahoo.com was inserted into input
+2024-04-01 12:52:41.731 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:52:42.670 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:52:42.895 [main] INFO  utils.LogsConfig - Warning: No match for E-Mail Address and/or Password.for login attempts with invalid credentials
+2024-04-01 12:52:43.320 [main] INFO  utils.LogsConfig - horia.tdi@yahoo.com was inserted into input
+2024-04-01 12:52:43.558 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:52:44.427 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:52:44.653 [main] INFO  utils.LogsConfig - Warning: No match for E-Mail Address and/or Password.for login attempts with invalid credentials
+2024-04-01 12:52:45.022 [main] INFO  utils.LogsConfig - horia.tdi@yahoo.com was inserted into input
+2024-04-01 12:52:45.289 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:52:46.161 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:52:46.395 [main] INFO  utils.LogsConfig - Warning: No match for E-Mail Address and/or Password.for login attempts with invalid credentials
+2024-04-01 12:52:46.774 [main] INFO  utils.LogsConfig - horia.tdi@yahoo.com was inserted into input
+2024-04-01 12:52:47.005 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:52:47.978 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:52:48.199 [main] INFO  utils.LogsConfig - Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.for login attempts with invalid credentials
+2024-04-01 12:52:48.389 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 12:52:48.533 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-01 12:52:48.556 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 12:52:48.851 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 12:58:00.471 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 12:58:03.410 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 12:58:06.754 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 12:58:06.920 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 12:58:06.920 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-01 12:58:07.202 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 12:58:07.865 [main] INFO  utils.LogsConfig - horia.tdu@yahoo.com was inserted into input
+2024-04-01 12:58:08.157 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:58:09.284 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:58:09.575 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-01 12:58:10.071 [main] INFO  utils.LogsConfig - horia.tdu@yahoo.com was inserted into input
+2024-04-01 12:58:10.366 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:58:11.214 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:58:11.463 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-01 12:58:11.910 [main] INFO  utils.LogsConfig - horia.tdu@yahoo.com was inserted into input
+2024-04-01 12:58:12.157 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:58:12.974 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:58:13.208 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-01 12:58:13.637 [main] INFO  utils.LogsConfig - horia.tdu@yahoo.com was inserted into input
+2024-04-01 12:58:13.898 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:58:14.720 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:58:15.068 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-01 12:58:15.544 [main] INFO  utils.LogsConfig - horia.tdu@yahoo.com was inserted into input
+2024-04-01 12:58:15.823 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:58:16.700 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:58:16.956 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-01 12:58:17.380 [main] INFO  utils.LogsConfig - horia.tdu@yahoo.com was inserted into input
+2024-04-01 12:58:17.637 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-01 12:58:18.521 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 12:58:18.796 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-01 12:58:19.032 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 12:58:19.235 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-01 12:58:19.263 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 12:58:19.664 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 13:40:18.600 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 13:40:20.884 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 13:40:24.268 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 13:40:24.403 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 13:40:24.403 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-01 13:40:24.815 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-01 13:40:25.271 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 13:40:26.902 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 13:40:27.214 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-01 13:40:28.658 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-01 13:40:29.356 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-01 13:40:29.555 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-01 13:40:29.788 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-01 13:40:30.824 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-01 13:40:31.827 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-01 13:40:32.290 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-01 13:40:32.317 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 13:40:32.607 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 13:45:04.207 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 13:45:06.525 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 13:45:10.034 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 13:45:10.173 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 13:45:10.173 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 13:45:10.427 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 13:45:10.954 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 13:45:11.381 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 13:45:13.342 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 13:45:13.367 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 13:45:13.633 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 14:28:41.247 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 14:28:44.726 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 14:28:48.073 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 14:28:48.233 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 14:28:48.234 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 14:28:48.534 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 14:28:49.091 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 14:28:49.719 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 14:28:52.147 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 14:28:52.177 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 14:28:52.477 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 14:30:36.797 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 14:30:39.314 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 14:30:42.658 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 14:30:42.892 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 14:30:42.893 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 14:30:43.181 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 14:30:43.750 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 14:30:44.348 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 14:30:46.888 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 14:30:46.929 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 14:30:47.231 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 14:32:25.402 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 14:32:28.378 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 14:32:31.745 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 14:32:31.936 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 14:32:31.936 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 14:32:32.208 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 14:32:32.769 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 14:32:33.405 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 14:32:35.502 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 14:32:35.853 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-01 14:32:36.072 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 14:32:36.101 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 14:32:36.456 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 15:37:35.056 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 15:37:37.780 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 15:37:41.179 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 15:37:41.320 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 15:37:41.320 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-01 15:37:41.561 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-01 15:37:42.008 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-01 15:37:42.385 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 15:37:44.114 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 15:37:44.338 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-01 15:37:44.525 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-01 15:37:44.545 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 15:37:44.841 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-01 16:21:29.229 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-01 16:21:31.260 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-01 16:21:34.631 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-01 16:21:34.782 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-01 16:21:34.783 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-01 16:21:35.136 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-01 16:21:35.509 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-01 16:21:36.936 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-01 16:21:37.196 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-01 16:21:38.547 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-01 16:21:38.736 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-01 16:21:38.906 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-01 16:21:39.228 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-01 16:21:39.395 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-01 16:21:39.552 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-01 16:21:40.553 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-01 16:21:40.756 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-01 16:21:41.546 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-01 16:21:41.752 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: [[ChromeDriver: chrome on windows (64c7a2ecaefb5ec1413f8aba2c110fd4)] -> xpath: //label/following-sibling::div/input]
+2024-04-01 16:21:41.811 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: [[ChromeDriver: chrome on windows (64c7a2ecaefb5ec1413f8aba2c110fd4)] -> xpath: //label/following-sibling::div/input]
+2024-04-01 16:21:41.891 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: [[ChromeDriver: chrome on windows (64c7a2ecaefb5ec1413f8aba2c110fd4)] -> xpath: //label/following-sibling::div/input]
+2024-04-01 16:21:42.047 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-01 16:21:42.065 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-01 16:21:42.330 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 10:21:54.695 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 10:21:59.196 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 10:22:02.635 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 10:22:02.802 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 10:22:02.803 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 10:22:03.180 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-02 10:22:03.662 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 10:22:05.528 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 10:22:05.822 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 10:22:07.230 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 10:22:07.445 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 10:22:07.629 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 10:22:07.944 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-02 10:22:08.094 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-02 10:22:08.270 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-02 10:22:09.271 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-02 10:22:09.501 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-02 10:22:10.348 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 10:22:10.564 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: [[ChromeDriver: chrome on windows (e7aca6cd0f3a39760d6e279b2dd1ffff)] -> xpath: //label/following-sibling::div/input]
+2024-04-02 10:22:10.633 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: [[ChromeDriver: chrome on windows (e7aca6cd0f3a39760d6e279b2dd1ffff)] -> xpath: //label/following-sibling::div/input]
+2024-04-02 10:22:10.713 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: [[ChromeDriver: chrome on windows (e7aca6cd0f3a39760d6e279b2dd1ffff)] -> xpath: //label/following-sibling::div/input]
+2024-04-02 10:22:10.882 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 10:22:10.904 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 10:22:11.235 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 13:27:37.103 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 13:27:41.615 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 13:27:45.104 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 13:27:45.267 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 13:27:45.268 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 13:27:45.540 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 13:27:45.571 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 13:27:45.802 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 13:33:48.067 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 13:33:50.819 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 13:33:54.483 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 13:33:54.639 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 13:33:54.639 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 13:33:55.041 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 13:33:55.077 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 13:33:55.391 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 13:37:06.143 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 13:37:08.884 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 13:37:12.443 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 13:37:12.592 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 13:37:12.592 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-02 13:37:12.986 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 13:37:13.585 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-02 13:37:14.204 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 13:37:16.293 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 13:37:16.530 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 13:37:16.732 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-02 13:37:16.764 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 13:37:17.066 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 13:37:51.858 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 13:37:54.268 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 13:37:57.884 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 13:37:58.051 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 13:37:58.052 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-02 13:37:58.288 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 13:37:58.810 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-02 13:37:59.278 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 13:38:01.335 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 13:38:01.564 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 13:38:01.828 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-02 13:38:01.860 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 13:38:02.908 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 13:38:41.259 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 13:38:43.863 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 13:38:47.631 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 13:38:47.777 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 13:38:47.780 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 13:38:48.145 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 13:38:48.171 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 13:38:48.411 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 13:40:49.725 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 13:40:52.256 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 13:40:55.952 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 13:40:56.089 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 13:40:56.091 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 13:40:56.534 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-02 13:40:57.041 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 13:40:59.685 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 13:41:00.147 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 13:41:02.544 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 13:41:02.784 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 13:41:02.966 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 13:41:03.277 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-02 13:41:03.461 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-02 13:41:03.645 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-02 13:41:04.683 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-02 13:41:04.931 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-02 13:41:05.742 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 13:41:06.195 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 13:41:06.225 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 13:41:06.460 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 13:44:28.222 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 13:44:30.536 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 13:44:34.256 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 13:44:34.397 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 13:44:34.398 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 13:44:34.853 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-02 13:44:35.335 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 13:44:37.796 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 13:44:38.072 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 13:44:40.282 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 13:44:40.523 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 13:44:40.733 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 13:44:41.117 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-02 13:44:41.367 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-02 13:44:41.568 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-02 13:44:42.674 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-02 13:44:42.981 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-02 13:44:43.845 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 13:44:44.306 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 13:44:44.330 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 13:44:44.588 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 13:47:22.176 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 13:47:25.301 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 13:47:29.039 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 13:47:29.219 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 13:47:29.220 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 13:47:29.670 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-02 13:47:30.169 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 13:47:32.590 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 13:47:32.862 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 13:47:35.133 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 13:47:35.339 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 13:47:35.629 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 13:47:36.054 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-02 13:47:36.255 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-02 13:47:36.457 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-02 13:47:37.570 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-02 13:47:37.862 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-02 13:47:38.774 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 13:49:58.162 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 
+2024-04-02 13:50:44.992 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 13:50:48.030 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 13:50:52.078 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 13:50:52.211 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 13:50:52.212 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 13:50:52.687 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-02 13:50:53.230 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 13:50:55.553 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 13:50:55.804 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 13:50:58.336 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 13:50:58.548 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 13:50:58.733 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 13:50:59.067 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-02 13:50:59.254 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-02 13:50:59.482 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-02 13:51:00.535 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-02 13:51:00.787 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-02 13:51:01.676 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 13:51:27.593 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 
+2024-04-02 13:51:27.642 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 
+2024-04-02 13:51:51.961 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 13:51:54.530 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 13:51:58.462 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 13:51:58.609 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 13:51:58.610 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 13:51:59.114 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-02 13:51:59.610 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 13:52:02.054 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 13:52:02.348 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 13:52:04.991 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 13:52:05.177 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 13:52:05.356 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 13:52:05.696 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-02 13:52:05.922 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-02 13:52:06.117 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-02 13:52:07.186 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-02 13:52:07.419 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-02 13:52:08.299 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 13:52:08.525 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 
+2024-04-02 13:52:08.569 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 
+2024-04-02 13:52:08.631 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 
+2024-04-02 13:52:08.804 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 13:52:08.829 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 13:52:09.085 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:03:59.551 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 14:04:02.033 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:04:05.981 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:04:06.111 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:04:06.112 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 14:04:06.508 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-02 14:04:07.054 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:04:09.897 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:04:10.179 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 14:04:16.488 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 14:04:16.708 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 14:04:16.898 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 14:04:17.204 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-02 14:04:17.365 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-02 14:04:17.533 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-02 14:04:18.537 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-02 14:04:18.773 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-02 14:04:19.622 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 14:04:19.864 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: {First Name=Tudorita, Last Name=Horatiu, Telephone=079555005}
+2024-04-02 14:04:19.899 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: {First Name=Tudorita, Last Name=Horatiu, Telephone=079555005}
+2024-04-02 14:04:19.948 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: {First Name=Tudorita, Last Name=Horatiu, Telephone=079555005}
+2024-04-02 14:04:20.121 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 14:04:20.144 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:04:20.395 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:11:58.354 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 14:12:00.230 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:12:04.599 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:12:04.734 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:12:04.734 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-02 14:12:04.987 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:12:05.400 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-02 14:12:05.775 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:12:08.276 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:12:08.465 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 14:12:08.631 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-02 14:12:08.651 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:12:08.889 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:14:29.217 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 14:14:31.333 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:14:35.111 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:14:35.263 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:14:35.264 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-02 14:14:35.523 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:14:36.104 [main] INFO  utils.LogsConfig - horia.tds@yahoo.com was inserted into input
+2024-04-02 14:14:36.647 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:14:38.513 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:14:38.733 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 14:14:38.898 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-02 14:14:38.922 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:14:39.210 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:16:03.934 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 14:16:06.444 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:16:10.078 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:16:10.228 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:16:10.229 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:16:10.520 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:16:11.038 [main] INFO  utils.LogsConfig - horia.tdu@yahoo.com was inserted into input
+2024-04-02 14:16:11.294 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-02 14:16:12.269 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:16:12.525 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:16:12.968 [main] INFO  utils.LogsConfig - horia.tdu@yahoo.com was inserted into input
+2024-04-02 14:16:13.195 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-02 14:16:14.031 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:16:14.485 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:16:14.534 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:16:14.937 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:16:17.448 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:16:21.302 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:16:21.441 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:16:21.442 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:16:21.617 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:16:22.098 [main] INFO  utils.LogsConfig - horia.ta@yahoo.com was inserted into input
+2024-04-02 14:16:22.371 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-02 14:16:23.452 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:16:23.727 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:16:24.236 [main] INFO  utils.LogsConfig - horia.ta@yahoo.com was inserted into input
+2024-04-02 14:16:24.485 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-02 14:16:25.280 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:16:25.703 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:16:25.751 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:16:26.073 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:16:28.004 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:16:32.325 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:16:32.466 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:16:32.466 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:16:32.658 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:16:33.152 [main] INFO  utils.LogsConfig - horia.td&yahoo.com was inserted into input
+2024-04-02 14:16:33.379 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-02 14:16:34.271 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:16:34.508 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:16:34.921 [main] INFO  utils.LogsConfig - horia.td&yahoo.com was inserted into input
+2024-04-02 14:16:35.133 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-02 14:16:35.986 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:16:36.414 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:16:36.437 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:16:36.716 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:16:38.615 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:16:42.594 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:16:42.730 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:16:42.730 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:16:42.871 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:16:43.402 [main] INFO  utils.LogsConfig - horria.td@yahoo.com was inserted into input
+2024-04-02 14:16:43.615 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:16:44.511 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:16:44.757 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:16:45.137 [main] INFO  utils.LogsConfig - horria.td@yahoo.com was inserted into input
+2024-04-02 14:16:45.346 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:16:46.158 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:16:46.573 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:16:46.606 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:16:46.878 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:16:48.746 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:16:52.856 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:16:52.983 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:16:52.984 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:16:53.136 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:16:53.579 [main] INFO  utils.LogsConfig - horia.t@gmail.com was inserted into input
+2024-04-02 14:16:53.805 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:16:54.684 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:16:54.906 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:16:55.325 [main] INFO  utils.LogsConfig - horia.t@gmail.com was inserted into input
+2024-04-02 14:16:55.564 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:16:56.452 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:16:56.897 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:16:56.927 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:16:57.297 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:16:59.273 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:17:03.090 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:17:03.230 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:17:03.230 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:17:03.367 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:17:03.855 [main] INFO  utils.LogsConfig - horia_t@yahoo.com was inserted into input
+2024-04-02 14:17:04.117 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:17:05.001 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:17:05.232 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:17:05.610 [main] INFO  utils.LogsConfig - horia_t@yahoo.com was inserted into input
+2024-04-02 14:17:05.806 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:17:06.749 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:17:07.115 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:17:07.142 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:17:07.476 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:31:44.303 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 14:31:46.792 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:31:50.638 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:31:50.783 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:31:50.784 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:31:51.040 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:31:51.476 [main] INFO  utils.LogsConfig - horia.tdz@yahoo.com was inserted into input
+2024-04-02 14:31:51.656 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-02 14:31:52.536 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:31:52.770 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:31:53.142 [main] INFO  utils.LogsConfig - horia.tdz@yahoo.com was inserted into input
+2024-04-02 14:31:53.342 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-02 14:31:54.158 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:31:54.374 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:31:54.713 [main] INFO  utils.LogsConfig - horia.tdz@yahoo.com was inserted into input
+2024-04-02 14:31:54.940 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-02 14:31:55.749 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:31:55.964 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:31:56.334 [main] INFO  utils.LogsConfig - horia.tdz@yahoo.com was inserted into input
+2024-04-02 14:31:56.527 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-02 14:31:57.327 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:31:57.539 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:31:57.884 [main] INFO  utils.LogsConfig - horia.tdz@yahoo.com was inserted into input
+2024-04-02 14:31:58.068 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-02 14:31:58.817 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:31:59.033 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:31:59.411 [main] INFO  utils.LogsConfig - horia.tdz@yahoo.com was inserted into input
+2024-04-02 14:31:59.597 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-02 14:32:00.410 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:00.623 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-02 14:32:00.809 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:32:00.966 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:32:00.986 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:32:01.291 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:32:03.392 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:32:07.325 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:32:07.454 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:32:07.454 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:32:07.618 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:32:07.994 [main] INFO  utils.LogsConfig - horia.taz@yahoo.com was inserted into input
+2024-04-02 14:32:08.173 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-02 14:32:09.094 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:09.335 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:09.749 [main] INFO  utils.LogsConfig - horia.taz@yahoo.com was inserted into input
+2024-04-02 14:32:09.966 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-02 14:32:10.802 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:11.019 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:11.377 [main] INFO  utils.LogsConfig - horia.taz@yahoo.com was inserted into input
+2024-04-02 14:32:11.621 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-02 14:32:12.492 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:12.766 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:13.167 [main] INFO  utils.LogsConfig - horia.taz@yahoo.com was inserted into input
+2024-04-02 14:32:13.357 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-02 14:32:14.118 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:14.328 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:14.651 [main] INFO  utils.LogsConfig - horia.taz@yahoo.com was inserted into input
+2024-04-02 14:32:14.827 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-02 14:32:15.608 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:15.812 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:16.186 [main] INFO  utils.LogsConfig - horia.taz@yahoo.com was inserted into input
+2024-04-02 14:32:16.401 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-02 14:32:17.219 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:17.452 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-02 14:32:17.639 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:32:17.790 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:32:17.811 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:32:18.062 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:32:19.773 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:32:23.727 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:32:23.858 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:32:23.859 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:32:24.017 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:32:24.434 [main] INFO  utils.LogsConfig - horia.tdz&yahoo.com was inserted into input
+2024-04-02 14:32:24.680 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-02 14:32:25.563 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:25.813 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:26.184 [main] INFO  utils.LogsConfig - horia.tdz&yahoo.com was inserted into input
+2024-04-02 14:32:26.414 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-02 14:32:27.198 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:27.408 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:27.806 [main] INFO  utils.LogsConfig - horia.tdz&yahoo.com was inserted into input
+2024-04-02 14:32:28.006 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-02 14:32:28.790 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:29.052 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:29.434 [main] INFO  utils.LogsConfig - horia.tdz&yahoo.com was inserted into input
+2024-04-02 14:32:29.670 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-02 14:32:30.544 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:30.838 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:31.259 [main] INFO  utils.LogsConfig - horia.tdz&yahoo.com was inserted into input
+2024-04-02 14:32:31.452 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-02 14:32:32.277 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:32.490 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:32.858 [main] INFO  utils.LogsConfig - horia.tdz&yahoo.com was inserted into input
+2024-04-02 14:32:33.048 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-02 14:32:33.822 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:34.046 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-02 14:32:34.216 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:32:34.359 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:32:34.382 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:32:34.600 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:32:36.443 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:32:40.267 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:32:40.401 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:32:40.401 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:32:40.568 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:32:41.002 [main] INFO  utils.LogsConfig - horria.tdz@yahoo.com was inserted into input
+2024-04-02 14:32:41.211 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:32:42.112 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:42.351 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:42.743 [main] INFO  utils.LogsConfig - horria.tdz@yahoo.com was inserted into input
+2024-04-02 14:32:42.958 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:32:43.766 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:43.978 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:44.312 [main] INFO  utils.LogsConfig - horria.tdz@yahoo.com was inserted into input
+2024-04-02 14:32:44.511 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:32:45.305 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:45.584 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:45.968 [main] INFO  utils.LogsConfig - horria.tdz@yahoo.com was inserted into input
+2024-04-02 14:32:46.176 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:32:46.936 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:47.232 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:47.701 [main] INFO  utils.LogsConfig - horria.tdz@yahoo.com was inserted into input
+2024-04-02 14:32:47.946 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:32:48.762 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:48.971 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:49.339 [main] INFO  utils.LogsConfig - horria.tdz@yahoo.com was inserted into input
+2024-04-02 14:32:49.547 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:32:50.340 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:50.540 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-02 14:32:50.727 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:32:50.911 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:32:50.931 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:32:51.225 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:32:53.299 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:32:57.171 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:32:57.296 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:32:57.297 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:32:57.449 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:32:57.878 [main] INFO  utils.LogsConfig - horia.tz@gmail.com was inserted into input
+2024-04-02 14:32:58.118 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:32:59.047 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:32:59.275 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:32:59.736 [main] INFO  utils.LogsConfig - horia.tz@gmail.com was inserted into input
+2024-04-02 14:32:59.951 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:33:00.762 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:33:00.995 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:33:01.408 [main] INFO  utils.LogsConfig - horia.tz@gmail.com was inserted into input
+2024-04-02 14:33:01.600 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:33:02.435 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:33:02.660 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:33:03.025 [main] INFO  utils.LogsConfig - horia.tz@gmail.com was inserted into input
+2024-04-02 14:33:03.236 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:33:04.059 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:33:04.265 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:33:04.586 [main] INFO  utils.LogsConfig - horia.tz@gmail.com was inserted into input
+2024-04-02 14:33:04.802 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:33:05.577 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:33:05.781 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:33:06.123 [main] INFO  utils.LogsConfig - horia.tz@gmail.com was inserted into input
+2024-04-02 14:33:06.299 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:33:07.054 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:33:07.284 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-02 14:33:07.462 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:33:07.624 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:33:07.643 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:33:07.871 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:33:09.738 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:33:13.722 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:33:13.875 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:33:13.876 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:33:14.056 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:33:14.513 [main] INFO  utils.LogsConfig - horia_tz@yahoo.com was inserted into input
+2024-04-02 14:33:14.708 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:33:15.612 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:33:15.896 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:33:16.260 [main] INFO  utils.LogsConfig - horia_tz@yahoo.com was inserted into input
+2024-04-02 14:33:16.446 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:33:17.211 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:33:17.413 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:33:17.787 [main] INFO  utils.LogsConfig - horia_tz@yahoo.com was inserted into input
+2024-04-02 14:33:17.967 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:33:18.786 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:33:19.010 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:33:19.389 [main] INFO  utils.LogsConfig - horia_tz@yahoo.com was inserted into input
+2024-04-02 14:33:19.588 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:33:20.418 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:33:20.627 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:33:20.978 [main] INFO  utils.LogsConfig - horia_tz@yahoo.com was inserted into input
+2024-04-02 14:33:21.214 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:33:22.014 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:33:22.227 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-02 14:33:22.585 [main] INFO  utils.LogsConfig - horia_tz@yahoo.com was inserted into input
+2024-04-02 14:33:22.855 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:33:23.707 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:33:23.902 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-02 14:33:24.089 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-02 14:33:24.253 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-02 14:33:24.274 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:33:24.513 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:39:38.472 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 14:39:40.741 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:39:44.415 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:39:44.561 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:39:44.562 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 14:39:45.015 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-02 14:39:45.469 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:39:47.606 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:39:47.915 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 14:39:50.194 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 14:39:50.392 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 14:39:50.558 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 14:39:50.863 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-02 14:39:51.025 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-02 14:39:51.207 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-02 14:39:52.322 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-02 14:39:52.547 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-02 14:39:53.493 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 14:39:53.710 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: {First Name=Tudorita, Last Name=Horatiu, Telephone=079555005}
+2024-04-02 14:39:53.751 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: {First Name=Tudorita, Last Name=Horatiu, Telephone=079555005}
+2024-04-02 14:39:53.801 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: {First Name=Tudorita, Last Name=Horatiu, Telephone=079555005}
+2024-04-02 14:39:53.973 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 14:39:53.996 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:39:54.245 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 14:53:28.973 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 14:53:31.200 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 14:53:34.746 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 14:53:34.888 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 14:53:34.889 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 14:53:35.332 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-02 14:53:35.761 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 14:53:37.703 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 14:53:37.963 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 14:53:40.214 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 14:53:40.409 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 14:53:40.585 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 14:53:40.889 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-02 14:53:41.061 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-02 14:53:41.233 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-02 14:53:42.250 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-02 14:53:42.487 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-02 14:53:43.283 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 14:53:43.482 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Tudorita
+2024-04-02 14:53:43.525 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Horatiu
+2024-04-02 14:53:43.567 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 079555005
+2024-04-02 14:53:43.726 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 14:53:43.747 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 14:53:43.973 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 15:14:07.664 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 15:14:10.824 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 15:14:14.657 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 15:14:14.822 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 15:14:14.823 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 15:14:15.264 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-02 15:14:15.930 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 15:14:18.376 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 15:14:18.771 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 15:14:21.983 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 15:14:22.266 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 15:14:22.534 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 15:14:23.064 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-02 15:14:23.370 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-02 15:14:23.712 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-02 15:14:25.116 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-02 15:14:25.627 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-02 15:14:26.800 [main] INFO  utils.LogsConfig - Click on element: null
+2024-04-02 15:14:27.118 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Tudorita
+2024-04-02 15:14:27.173 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Horatiu
+2024-04-02 15:14:27.266 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 079555005
+2024-04-02 15:14:27.506 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 15:14:27.527 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 15:14:27.958 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 15:21:22.409 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 15:21:25.144 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-02 15:21:29.306 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-02 15:21:29.467 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-02 15:21:29.468 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 15:21:29.943 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-02 15:21:30.698 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-02 15:21:33.476 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-02 15:21:33.935 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-02 15:21:38.929 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-02 15:21:39.213 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 15:21:39.458 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-02 15:21:39.970 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-02 15:21:40.326 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-02 15:21:40.681 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-02 15:21:42.073 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-02 15:21:42.481 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-02 15:21:43.725 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-02 15:21:44.054 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Tudorita
+2024-04-02 15:21:44.117 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Horatiu
+2024-04-02 15:21:44.211 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 079555005
+2024-04-02 15:21:44.421 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-02 15:21:44.443 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-02 15:21:44.800 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-02 16:22:41.279 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 16:22:41.789 [main] INFO  utils.LogsConfig - Specifications installed with response code :
+2024-04-02 16:24:03.039 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 16:50:39.689 [main] INFO  utils.LogsConfig - Specifications installed with response code :
+2024-04-02 16:54:44.255 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 17:01:42.266 [main] INFO  utils.LogsConfig - Specifications installed with response code :
+2024-04-02 17:02:50.576 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 17:02:51.072 [main] INFO  utils.LogsConfig - Specifications installed with response code :
+2024-04-02 17:55:41.985 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-02 17:55:42.720 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-02 17:55:44.167 [main] INFO  utils.LogsConfig - A GET request was sent to the server with the endpoint: api/unknown
+2024-04-02 17:55:45.952 [main] INFO  utils.LogsConfig - [#98B2D1, #C74375, #BF1932, #7BC4C4, #E2583E, #53B0AE]All Resource that have color code number  corresponding to this regex: ^#[0-9A-Z]{6}$
+2024-04-03 08:49:40.680 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 08:49:41.226 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 08:49:42.465 [main] INFO  utils.LogsConfig - A GET request was sent to the server with the endpoint: api/unknown
+2024-04-03 08:49:44.109 [main] INFO  utils.LogsConfig - All Resources that have color code numbers: [#98B2D1, #C74375, #BF1932, #7BC4C4, #E2583E, #53B0AE] corresponding to this regex: ^#[0-9A-Z]{6}$
+2024-04-03 09:45:20.889 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 09:45:21.589 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 09:45:23.312 [main] INFO  utils.LogsConfig - A GET request was sent to the server with the endpoint: api/unknown
+2024-04-03 09:45:24.883 [main] INFO  utils.LogsConfig - All Resources that have color code numbers: [#98B2D1, #C74375, #BF1932, #7BC4C4, #E2583E, #53B0AE] corresponding to this regex: ^#[0-9A-Z]{6}$
+2024-04-03 09:46:16.865 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 09:46:17.395 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 09:46:18.757 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:02:40.463 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:02:41.086 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:02:42.949 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:05:58.612 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:05:59.230 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:06:00.996 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:09:24.898 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:09:25.563 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:09:27.448 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:11:43.922 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:11:44.429 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:11:45.908 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:13:33.149 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:13:33.765 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:13:35.589 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:16:29.770 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:16:30.462 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:16:32.279 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:18:52.636 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:18:53.283 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:18:55.084 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:21:10.083 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:21:10.849 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:21:12.644 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:23:25.972 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:23:26.639 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:23:28.429 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:23:54.680 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:23:55.301 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:23:57.112 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:24:49.718 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:24:50.534 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:31:33.808 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:31:51.928 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:31:52.456 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:31:54.040 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:38:13.695 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:38:14.240 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:38:16.602 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:38:16.703 [main] INFO  utils.LogsConfig - Actual Time + 5 sec.: 2024-04-03T07:38:16.499is before Expected Time: 2024-04-03T07:38:16.641656100
+2024-04-03 10:38:41.042 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:38:41.602 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:38:43.009 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:38:43.092 [main] INFO  utils.LogsConfig - Actual Time + 5 sec.: 2024-04-03T07:38:42.907 is before Expected Time: 2024-04-03T07:38:43.044378700
+2024-04-03 10:40:47.606 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:40:48.179 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-03 10:40:49.689 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-03 10:40:49.780 [main] INFO  utils.LogsConfig - Actual Time: 2024-04-03T07:40:49.578 + 5 sec. is before Expected Time: 2024-04-03T07:40:49.727056200
+2024-04-03 10:57:28.557 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 10:57:29.163 [main] INFO  utils.LogsConfig - Specifications installed with response code: 201
+2024-04-03 10:57:30.689 [main] INFO  utils.LogsConfig - A POST request was sent to the server with the endpoint: api/users
+2024-04-03 10:57:30.769 [main] INFO  utils.LogsConfig - Actual Time: 2024-04-03T07:57:30.586 + 5 sec. is before Expected Time: 2024-04-03T07:57:30.721732200
+2024-04-03 11:06:14.429 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 11:06:15.053 [main] INFO  utils.LogsConfig - Specifications installed with response code: 201
+2024-04-03 11:06:16.558 [main] INFO  utils.LogsConfig - A POST request was sent to the server with the endpoint: api/users
+2024-04-03 11:06:16.644 [main] INFO  utils.LogsConfig - Actual Time: 2024-04-03T08:06:16.421 + 5 sec. is before Expected Time: 2024-04-03T08:06:16.593030500
+2024-04-03 11:06:42.725 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 11:06:43.238 [main] INFO  utils.LogsConfig - Specifications installed with response code: 400
+2024-04-03 11:06:44.661 [main] INFO  utils.LogsConfig - A POST request was sent to the server with the endpoint: api/login
+2024-04-03 11:06:44.738 [main] INFO  utils.LogsConfig - Actual Error message: Missing passwordExpected Error message: Missing password
+2024-04-03 11:07:39.669 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 11:07:40.241 [main] INFO  utils.LogsConfig - Specifications installed with response code: 400
+2024-04-03 11:07:41.651 [main] INFO  utils.LogsConfig - A POST request was sent to the server with the endpoint: api/login
+2024-04-03 11:07:41.737 [main] INFO  utils.LogsConfig - Actual Error message: Missing password Expected Error message: Missing password
+2024-04-03 11:09:33.097 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 11:09:33.857 [main] INFO  utils.LogsConfig - Specifications installed with response code: 400
+2024-04-03 11:09:36.090 [main] INFO  utils.LogsConfig - A POST request was sent to the server with the endpoint: api/login
+2024-04-03 11:09:36.190 [main] INFO  utils.LogsConfig - Actual Error message: Missing password. Expected Error message: Missing password
+2024-04-03 11:12:30.672 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 11:12:31.175 [main] INFO  utils.LogsConfig - Specifications installed with response code: 400
+2024-04-03 11:12:32.636 [main] INFO  utils.LogsConfig - A POST request was sent to the server with the endpoint: api/login
+2024-04-03 11:12:32.728 [main] INFO  utils.LogsConfig - Actual Error message: Missing password. Expected Error message: Missing password
+2024-04-03 11:13:49.879 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 11:13:50.391 [main] INFO  utils.LogsConfig - Specifications installed with response code: 400
+2024-04-03 11:13:52.098 [main] INFO  utils.LogsConfig - A POST request was sent to the server with the endpoint: api/login
+2024-04-03 11:13:52.194 [main] INFO  utils.LogsConfig - Actual Error message: Missing password. Expected Error message: Missing password.
+2024-04-03 11:18:50.549 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 11:19:00.097 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-03 11:19:03.410 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-03 11:19:03.568 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-03 11:19:03.568 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 11:19:04.084 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-03 11:19:04.562 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-03 11:19:06.300 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-03 11:19:06.631 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-03 11:19:08.042 [main] INFO  utils.LogsConfig - Click on element:  Edit your account information
+2024-04-03 11:19:08.276 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 11:19:08.523 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 11:19:08.884 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-03 11:19:09.112 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-03 11:19:09.328 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-03 11:19:10.388 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-03 11:19:10.644 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-03 11:19:11.537 [main] INFO  utils.LogsConfig - Click on element:  Edit your account information
+2024-04-03 11:19:11.766 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Tudorita
+2024-04-03 11:19:11.805 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Horatiu
+2024-04-03 11:19:11.856 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 079555005
+2024-04-03 11:19:12.031 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 11:19:12.053 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-03 11:19:12.395 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-03 11:25:43.929 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 11:25:45.852 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-03 11:25:49.297 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-03 11:25:49.427 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-03 11:25:49.428 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 11:25:49.835 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-03 11:25:50.234 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-03 11:25:51.832 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-03 11:25:52.056 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-03 11:25:53.595 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-03 11:25:53.788 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 11:25:53.993 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 11:25:54.298 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-03 11:25:54.450 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-03 11:25:54.624 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-03 11:25:55.552 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-03 11:25:55.783 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-03 11:25:56.579 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-03 11:25:56.817 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Tudorita
+2024-04-03 11:25:56.865 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Horatiu
+2024-04-03 11:25:56.928 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 079555005
+2024-04-03 11:25:57.083 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 11:25:57.108 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-03 11:25:57.328 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-03 11:52:38.339 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 11:52:40.404 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-03 11:52:43.933 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-03 11:52:44.075 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-03 11:52:44.076 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 11:52:44.486 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-03 11:52:44.887 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-03 11:52:48.596 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-03 11:52:48.834 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-03 11:52:51.079 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-03 11:52:51.270 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 11:52:51.456 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 11:52:51.754 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-03 11:52:51.925 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-03 11:52:52.079 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-03 11:52:53.037 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-03 11:52:53.262 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-03 11:52:54.111 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-03 11:52:54.305 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Tudorita
+2024-04-03 11:52:54.338 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Horatiu
+2024-04-03 11:52:54.380 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 079555005
+2024-04-03 11:52:54.541 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 11:52:54.566 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-03 11:52:54.808 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-03 12:15:47.581 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 12:15:49.639 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-03 12:15:52.925 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-03 12:15:53.078 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-03 12:15:53.080 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 12:15:53.415 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-03 12:15:53.846 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-03 12:15:55.205 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-03 12:15:55.464 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-03 12:15:56.868 [main] INFO  utils.LogsConfig - Click on element:  Edit your account information
+2024-04-03 12:15:57.067 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 12:15:57.243 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 12:15:57.570 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-03 12:15:57.721 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-03 12:15:57.895 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-03 12:15:58.701 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-03 12:15:58.952 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-03 12:15:59.714 [main] INFO  utils.LogsConfig - Click on element:  Edit your account information
+2024-04-03 12:15:59.912 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Tudorita
+2024-04-03 12:15:59.955 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Horatiu
+2024-04-03 12:16:00.016 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 079555005
+2024-04-03 12:16:00.189 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 12:16:00.210 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-03 12:16:00.464 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-03 12:19:35.739 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 12:19:38.378 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-03 12:19:41.621 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-03 12:19:41.774 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-03 12:19:41.775 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 12:19:42.290 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-03 12:19:42.817 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-03 12:19:44.594 [main] INFO  utils.LogsConfig - Click on element: 
+2024-04-03 12:19:44.856 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-03 12:19:46.250 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-03 12:19:46.492 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 12:19:46.698 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 12:19:47.150 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-03 12:19:47.354 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-03 12:19:47.626 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-03 12:19:48.759 [main] INFO  utils.LogsConfig - Click on element: 
+2024-04-03 12:19:49.077 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-03 12:19:49.934 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-03 12:19:50.141 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Tudorita
+2024-04-03 12:19:50.177 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Horatiu
+2024-04-03 12:19:50.241 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 079555005
+2024-04-03 12:19:50.449 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 12:19:50.486 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-03 12:19:50.856 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-03 16:35:27.709 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 16:35:30.393 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-03 16:35:33.660 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-03 16:35:33.797 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-03 16:35:33.798 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 16:35:34.210 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-03 16:35:34.604 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-03 16:35:36.267 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-03 16:35:36.550 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-03 16:35:37.920 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-03 16:35:38.119 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 16:35:38.307 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 16:35:38.617 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-03 16:35:38.779 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-03 16:35:38.953 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-03 16:35:39.932 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-03 16:35:40.155 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-03 16:35:40.983 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-03 16:35:41.184 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Tudorita
+2024-04-03 16:35:41.220 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Horatiu
+2024-04-03 16:35:41.270 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 079555005
+2024-04-03 16:35:41.431 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 16:35:41.452 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-03 16:35:41.682 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-03 16:53:44.484 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 16:53:46.721 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-03 16:53:50.104 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-03 16:53:50.241 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-03 16:53:50.241 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 16:53:50.619 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-03 16:53:50.996 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-03 16:53:52.426 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-03 16:53:52.719 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-03 16:53:54.105 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-03 16:53:54.353 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 16:53:54.526 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 16:53:54.859 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-03 16:53:55.016 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-03 16:53:55.168 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-03 16:53:56.200 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-03 16:53:56.404 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-03 16:53:57.176 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-03 16:53:57.390 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Tudorita
+2024-04-03 16:53:57.429 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Horatiu
+2024-04-03 16:53:57.473 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 079555005
+2024-04-03 16:53:57.620 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 16:53:57.638 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-03 16:53:57.868 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-03 17:02:51.432 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-03 17:02:53.649 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-03 17:02:57.241 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-03 17:02:57.392 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-03 17:02:57.394 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 17:02:57.780 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-03 17:02:58.208 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-03 17:02:59.824 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-03 17:03:00.094 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-03 17:03:01.457 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-03 17:03:01.659 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 17:03:01.834 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-03 17:03:02.176 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-03 17:03:02.349 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-03 17:03:02.525 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-03 17:03:03.316 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-03 17:03:03.587 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-03 17:03:04.415 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-03 17:03:04.634 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Tudorita
+2024-04-03 17:03:04.679 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Horatiu
+2024-04-03 17:03:04.731 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 079555005
+2024-04-03 17:03:04.884 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-03 17:03:04.908 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-03 17:03:05.175 [main] INFO  utils.LogsConfig - Driver closed

@@ -25,7 +25,7 @@ public class PropertyConfigurator {
         FileInputStream fis = null;
         Properties prop = null;
         try {
-            fis = new FileInputStream("src/test/testResources/properties/test.properties");
+            fis = new FileInputStream("src/test/resources/properties/test.properties");
             prop = new Properties();
             prop.load(fis);
         } catch (IOException e) {
