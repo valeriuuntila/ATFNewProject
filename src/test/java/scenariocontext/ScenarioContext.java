@@ -1,12 +1,12 @@
-package scenarioContext;
+package scenariocontext;
 
 import io.cucumber.java.Scenario;
 import io.restassured.response.Response;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
-import pageObjects.Page;
+import pages.Page;
 
-import static stepDefinitions.Hooks.driver;
+import static steps.Hooks.driver;
 
 public class ScenarioContext {
 

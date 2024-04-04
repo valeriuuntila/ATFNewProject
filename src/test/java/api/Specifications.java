@@ -8,7 +8,7 @@ import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
 
 public class Specifications {
-    private static final String URL = "https://dummy.restapiexample.com/api/v1/";
+    private static final String URL = "https://reqres.in/";
     public static RequestSpecification requestSpec(){
         return new RequestSpecBuilder()
                 .setBaseUri(URL)
