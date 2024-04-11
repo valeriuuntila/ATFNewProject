@@ -7,7 +7,9 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.WebDriver;
 import pages.EditAccountPage;
+import scenariocontext.ScenarioContext;
 import utils.LogsConfig;
 
 import java.util.Map;
@@ -15,7 +17,8 @@ import java.util.Map;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class EditAccountSteps {
-    EditAccountPage editAccountPage = new EditAccountPage();
+    private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
+    EditAccountPage editAccountPage = new EditAccountPage(((WebDriver) scenarioContext.getContext("DRIVER")));
     private final static Logger logger = LogsConfig.getLogger();
 
 
@@ -23,17 +26,16 @@ public class EditAccountSteps {
     public void userIsOnTheEditAccountPage() {
         //Assert.assertTrue(editAccountPage.getEditAccountPage().isDisplayed());
         assertThat(editAccountPage.getEditAccountPage().isDisplayed())
-                .as("User should be on Edit Account page")
-                .isTrue();
+                .as("User should be on Edit Account page");
         logger.info("User is on Edit Account page");
     }
 
     @When("The User enters following account information:")
     public void theUserEntersFollowingAccountInformation(DataTable table) {
-        Map<String, String>inputFieldParameters = table.asMap();
+        Map<String, String> inputFieldParameters = table.asMap();
 
         inputFieldParameters.forEach((field, value) -> {
-         editAccountPage.setInput(field, value);
+            editAccountPage.setInput(field, value);
         });
 
     }

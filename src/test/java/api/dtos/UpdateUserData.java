@@ -1,4 +1,4 @@
-package api;
+package api.dtos;
 
 public class UpdateUserData {
     private String name;

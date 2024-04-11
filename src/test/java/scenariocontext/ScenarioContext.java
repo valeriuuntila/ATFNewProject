@@ -1,56 +1,33 @@
 package scenariocontext;
 
-import io.cucumber.java.Scenario;
 import io.restassured.response.Response;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.PageFactory;
-import pages.Page;
 
-import static steps.Hooks.driver;
+import java.util.HashMap;
+import java.util.Map;
 
 public class ScenarioContext {
 
-    private static ScenarioContext instance = null;
-
-    private static Page currentPage;
-    private Scenario scenario;
-    private static WebElement webElement;
-
-    public static Response response;
+    private static ScenarioContext instance;
+    private final Map<String, Object> scenarioContext;
 
     private ScenarioContext() {
+        scenarioContext = new HashMap<String, Object>();
     }
 
     public static ScenarioContext getInstance() {
         if (instance == null) {
-            return new ScenarioContext();
-        } else return instance;
+            instance = new ScenarioContext();
+        }
+        return instance;
+    }
+
+    public void setContext(String key, Object value) {
+        scenarioContext.put(key, value);
+    }
+
+    public Object getContext(String key) {
+        return scenarioContext.get(key);
     }
 
 
-    public WebElement getWebElement() {
-        return webElement;
-    }
-
-    public void setWebElement(WebElement webElement) {
-        ScenarioContext.webElement = webElement;
-    }
-
-    public void setCurrentPage(Page currentPage) {
-        ScenarioContext.currentPage = currentPage;
-        PageFactory.initElements(driver, currentPage);
-    }
-
-    public Page getCurrentPage() {
-        return currentPage;
-    }
-
-
-    public void setScenario(Scenario scenario) {
-        this.scenario = scenario;
-    }
-
-    public Scenario getScenario() {
-        return scenario;
-    }
 }
