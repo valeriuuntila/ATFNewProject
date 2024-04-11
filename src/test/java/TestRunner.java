@@ -8,6 +8,8 @@ import org.junit.runner.RunWith;
         features = {"src/test/resources/features/API", "src/test/resources/features/UI"},
         stepNotifications = true,
         glue = {"steps", "api"},
+        //tags = "@UI",
+        //tags = "@API",
 
         plugin = {"pretty", "html:reports/cucumber-reports/cucumber-report.html"})
 public class TestRunner {
