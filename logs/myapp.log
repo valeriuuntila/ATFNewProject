@@ -6960,3 +6960,668 @@
 2024-04-11 09:51:42.891 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
 2024-04-11 09:51:42.910 [main] INFO  utils.LogsConfig - Deleting Cookies
 2024-04-11 09:51:43.143 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 11:49:56.618 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-11 11:49:57.174 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-11 11:49:58.536 [main] INFO  utils.LogsConfig - A GET request was sent to the server with the endpoint: api/unknown
+2024-04-11 11:49:59.248 [main] INFO  utils.LogsConfig - Specifications installed with response code: 201
+2024-04-11 11:49:59.536 [main] INFO  utils.LogsConfig - A POST request was sent to the server with the endpoint: api/users
+2024-04-11 11:49:59.578 [main] INFO  utils.LogsConfig - Specifications installed with response code: 400
+2024-04-11 11:49:59.768 [main] INFO  utils.LogsConfig - A POST request was sent to the server with the endpoint: api/login
+2024-04-11 11:49:59.852 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-11 11:50:00.098 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-11 11:50:04.561 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 11:50:07.994 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 11:50:08.150 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 11:50:08.153 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-11 11:50:08.576 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-11 11:50:08.812 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 11:50:10.327 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 11:50:10.374 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-11 11:50:11.563 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-11 11:50:11.612 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-11 11:50:11.640 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-11 11:50:11.890 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-11 11:50:12.076 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-11 11:50:12.289 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-11 11:50:12.998 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-11 11:50:13.064 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-11 11:50:13.599 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-11 11:50:13.651 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Tudorita
+2024-04-11 11:50:13.692 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Horatiu
+2024-04-11 11:50:13.745 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 079555005
+2024-04-11 11:50:13.746 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-11 11:50:13.770 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 11:50:14.100 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 11:50:17.121 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 11:50:20.941 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 11:50:21.079 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 11:50:21.081 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 11:50:21.277 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 11:50:21.601 [main] INFO  utils.LogsConfig - horia.td1h@yahoo.com was inserted into input
+2024-04-11 11:50:21.851 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-11 11:50:22.617 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 11:50:23.014 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 11:50:23.040 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 11:50:23.335 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 11:50:26.706 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 11:50:30.316 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 11:50:30.434 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 11:50:30.435 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 11:50:30.618 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 11:50:30.904 [main] INFO  utils.LogsConfig - horia.ta1h@yahoo.com was inserted into input
+2024-04-11 11:50:31.107 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-11 11:50:31.682 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 11:50:31.952 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 11:50:31.985 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 11:50:32.255 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 11:50:35.175 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 11:50:38.782 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 11:50:38.906 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 11:50:38.907 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 11:50:39.096 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 11:50:39.348 [main] INFO  utils.LogsConfig - horia.td1h&yahoo.com was inserted into input
+2024-04-11 11:50:39.562 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-11 11:50:40.152 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 11:50:40.412 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 11:50:40.441 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 11:50:40.699 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 11:50:44.025 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 11:50:48.012 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 11:50:48.159 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 11:50:48.159 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 11:50:48.300 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 11:50:48.583 [main] INFO  utils.LogsConfig - horria.td1h@yahoo.com was inserted into input
+2024-04-11 11:50:48.803 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 11:50:49.399 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 11:50:49.716 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 11:50:49.742 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 11:50:50.031 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 11:50:53.632 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 11:50:57.409 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 11:50:57.557 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 11:50:57.557 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 11:50:57.734 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 11:50:58.026 [main] INFO  utils.LogsConfig - horia.t1h@gmail.com was inserted into input
+2024-04-11 11:50:58.251 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 11:50:58.819 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 11:50:59.061 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 11:50:59.090 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 11:50:59.353 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 11:51:03.389 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 11:51:06.858 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 11:51:07.030 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 11:51:07.030 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 11:51:07.166 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 11:51:07.444 [main] INFO  utils.LogsConfig - horia_t1h@yahoo.com was inserted into input
+2024-04-11 11:51:07.661 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 11:51:08.242 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 11:51:08.579 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 11:51:08.608 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 11:51:08.865 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 11:51:12.120 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 11:51:15.657 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 11:51:15.788 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 11:51:15.788 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials
+2024-04-11 11:51:15.947 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 11:51:16.216 [main] INFO  utils.LogsConfig - iojo07@gmail.com was inserted into input
+2024-04-11 11:51:16.453 [main] INFO  utils.LogsConfig - 7v43d9513s was inserted into input
+2024-04-11 11:51:17.050 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 11:51:17.119 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 11:51:17.119 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials
+2024-04-11 11:51:17.142 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 11:51:17.415 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 11:51:20.214 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 11:51:23.796 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 11:51:23.916 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 11:51:23.916 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-11 11:51:24.068 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 11:51:24.323 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-11 11:51:24.528 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 11:51:25.801 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 11:51:25.827 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-11 11:51:25.828 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-11 11:51:25.850 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 11:51:26.087 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 11:57:21.752 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-11 11:57:22.232 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-11 11:57:23.296 [main] INFO  utils.LogsConfig - A GET request was sent to the server with the endpoint: api/unknown
+2024-04-11 12:00:05.484 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-11 12:00:05.966 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-11 12:00:06.940 [main] INFO  utils.LogsConfig - A GET request was sent to the server with the endpoint: api/unknown
+2024-04-11 12:00:34.934 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-11 12:00:35.504 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-11 12:00:36.727 [main] INFO  utils.LogsConfig - A GET request was sent to the server with the endpoint: api/unknown
+2024-04-11 12:01:51.896 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-11 12:01:52.393 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-11 12:01:53.366 [main] INFO  utils.LogsConfig - A GET request was sent to the server with the endpoint: api/unknown
+2024-04-11 12:01:54.963 [main] INFO  utils.LogsConfig - All Resources that have color code numbers: [#98B2D1, #C74375, #BF1932, #7BC4C4, #E2583E, #53B0AE] corresponding to this regex: ^#[0-9A-Z]{6}$
+2024-04-11 12:03:32.335 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-11 12:03:32.821 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-11 12:03:33.946 [main] INFO  utils.LogsConfig - A GET request was sent to the server with the endpoint: api/unknown
+2024-04-11 12:03:35.642 [main] INFO  utils.LogsConfig - All Resources that have color code numbers: [#98B2D1, #C74375, #BF1932, #7BC4C4, #E2583E, #53B0AE] corresponding to this regex: ^#[0-9A-Z]{6}$
+2024-04-11 12:04:13.558 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-11 12:04:14.135 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-11 12:04:15.345 [main] INFO  utils.LogsConfig - A GET request was sent to the server with the endpoint: api/unknown
+2024-04-11 12:04:39.425 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-11 12:04:40.025 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-11 12:04:41.347 [main] INFO  utils.LogsConfig - A GET request was sent to the server with the endpoint: api/unknown
+2024-04-11 12:05:08.703 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-11 12:05:09.293 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-11 12:05:10.677 [main] INFO  utils.LogsConfig - A GET request was sent to the server with the endpoint: api/unknown
+2024-04-11 12:05:12.563 [main] INFO  utils.LogsConfig - All Resources that have color code numbers: [#98B2D1, #C74375, #BF1932, #7BC4C4, #E2583E, #53B0AE] corresponding to this regex: ^#[0-9A-Z]{6}$
+2024-04-11 12:13:39.561 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-11 12:13:40.130 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-11 12:13:41.391 [main] INFO  utils.LogsConfig - A GET request was sent to the server with the endpoint: api/unknown
+2024-04-11 12:13:43.038 [main] INFO  utils.LogsConfig - All Resources that have color code numbers: [#98B2D1, #C74375, #BF1932, #7BC4C4, #E2583E, #53B0AE] corresponding to this regex: ^#[0-9A-Z]{6}$
+2024-04-11 12:13:43.052 [main] INFO  utils.LogsConfig - Specifications installed with response code: 201
+2024-04-11 12:13:43.359 [main] INFO  utils.LogsConfig - A POST request was sent to the server with the endpoint: api/users
+2024-04-11 12:13:43.404 [main] INFO  utils.LogsConfig - Actual Time: 2024-04-11T09:13:43.330 + 5 sec. is before Expected Time: 2024-04-11T09:13:43.382818300
+2024-04-11 12:13:43.423 [main] INFO  utils.LogsConfig - Specifications installed with response code: 400
+2024-04-11 12:13:43.617 [main] INFO  utils.LogsConfig - A POST request was sent to the server with the endpoint: api/login
+2024-04-11 12:13:43.621 [main] INFO  utils.LogsConfig - Actual Error message: Missing password. Expected Error message: Missing password.
+2024-04-11 12:13:43.629 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-11 12:13:43.802 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-11 12:13:43.805 [main] INFO  utils.LogsConfig - Actual Time: 2024-04-11T09:13:43.773 + 5 sec. is before Expected Time: 2024-04-11T09:13:43.804689100
+2024-04-11 12:13:46.797 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:13:50.225 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:13:50.376 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:13:50.376 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-11 12:13:50.845 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-11 12:13:51.068 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:13:52.760 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:13:52.799 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-11 12:13:55.180 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-11 12:13:55.228 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-11 12:13:55.249 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-11 12:13:55.385 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-11 12:13:55.568 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-11 12:13:55.738 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-11 12:13:56.625 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-11 12:13:56.686 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-11 12:13:57.356 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-11 12:13:57.396 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Tudorita
+2024-04-11 12:13:57.432 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Horatiu
+2024-04-11 12:13:57.482 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 079555005
+2024-04-11 12:13:57.483 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-11 12:13:57.501 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:13:57.809 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:14:01.051 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:14:04.675 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:14:04.808 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:14:04.808 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:14:05.003 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:14:05.291 [main] INFO  utils.LogsConfig - horia.td1j@yahoo.com was inserted into input
+2024-04-11 12:14:05.501 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-11 12:14:06.118 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:06.192 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:06.427 [main] INFO  utils.LogsConfig - horia.td1j@yahoo.com was inserted into input
+2024-04-11 12:14:06.628 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-11 12:14:07.230 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:07.282 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:07.495 [main] INFO  utils.LogsConfig - horia.td1j@yahoo.com was inserted into input
+2024-04-11 12:14:07.704 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-11 12:14:08.325 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:08.404 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:08.640 [main] INFO  utils.LogsConfig - horia.td1j@yahoo.com was inserted into input
+2024-04-11 12:14:08.865 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-11 12:14:09.494 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:09.547 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:09.790 [main] INFO  utils.LogsConfig - horia.td1j@yahoo.com was inserted into input
+2024-04-11 12:14:09.982 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-11 12:14:10.592 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:10.651 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:10.837 [main] INFO  utils.LogsConfig - horia.td1j@yahoo.com was inserted into input
+2024-04-11 12:14:11.101 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-11 12:14:11.699 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:11.748 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-11 12:14:11.771 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:14:11.772 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:14:11.793 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:14:12.028 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:14:14.320 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:14:17.844 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:14:17.999 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:14:17.999 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:14:18.152 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:14:18.414 [main] INFO  utils.LogsConfig - horia.ta1j@yahoo.com was inserted into input
+2024-04-11 12:14:18.630 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-11 12:14:19.339 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:19.398 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:19.616 [main] INFO  utils.LogsConfig - horia.ta1j@yahoo.com was inserted into input
+2024-04-11 12:14:19.845 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-11 12:14:20.511 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:20.564 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:20.779 [main] INFO  utils.LogsConfig - horia.ta1j@yahoo.com was inserted into input
+2024-04-11 12:14:20.977 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-11 12:14:21.601 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:21.657 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:21.861 [main] INFO  utils.LogsConfig - horia.ta1j@yahoo.com was inserted into input
+2024-04-11 12:14:22.067 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-11 12:14:22.688 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:22.747 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:22.975 [main] INFO  utils.LogsConfig - horia.ta1j@yahoo.com was inserted into input
+2024-04-11 12:14:23.180 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-11 12:14:23.766 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:23.813 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:24.062 [main] INFO  utils.LogsConfig - horia.ta1j@yahoo.com was inserted into input
+2024-04-11 12:14:24.256 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-11 12:14:24.857 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:24.904 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-11 12:14:24.925 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:14:24.926 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:14:24.949 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:14:25.296 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:14:27.698 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:14:31.291 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:14:31.431 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:14:31.431 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:14:31.586 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:14:31.910 [main] INFO  utils.LogsConfig - horia.td1j&yahoo.com was inserted into input
+2024-04-11 12:14:32.173 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-11 12:14:32.934 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:32.985 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:33.201 [main] INFO  utils.LogsConfig - horia.td1j&yahoo.com was inserted into input
+2024-04-11 12:14:33.427 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-11 12:14:34.067 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:34.124 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:34.316 [main] INFO  utils.LogsConfig - horia.td1j&yahoo.com was inserted into input
+2024-04-11 12:14:34.504 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-11 12:14:35.104 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:35.156 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:35.386 [main] INFO  utils.LogsConfig - horia.td1j&yahoo.com was inserted into input
+2024-04-11 12:14:35.580 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-11 12:14:36.208 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:36.257 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:36.480 [main] INFO  utils.LogsConfig - horia.td1j&yahoo.com was inserted into input
+2024-04-11 12:14:36.675 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-11 12:14:37.267 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:37.316 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:37.526 [main] INFO  utils.LogsConfig - horia.td1j&yahoo.com was inserted into input
+2024-04-11 12:14:37.719 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-11 12:14:38.580 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:38.622 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-11 12:14:38.642 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:14:38.643 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:14:38.661 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:14:38.894 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:14:41.355 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:14:44.835 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:14:44.966 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:14:44.967 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:14:45.117 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:14:45.416 [main] INFO  utils.LogsConfig - horria.td1j@yahoo.com was inserted into input
+2024-04-11 12:14:45.614 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:14:46.145 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:46.200 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:46.411 [main] INFO  utils.LogsConfig - horria.td1j@yahoo.com was inserted into input
+2024-04-11 12:14:46.644 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:14:47.261 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:47.350 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:47.561 [main] INFO  utils.LogsConfig - horria.td1j@yahoo.com was inserted into input
+2024-04-11 12:14:47.766 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:14:48.383 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:48.425 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:48.604 [main] INFO  utils.LogsConfig - horria.td1j@yahoo.com was inserted into input
+2024-04-11 12:14:48.791 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:14:49.423 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:49.469 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:49.680 [main] INFO  utils.LogsConfig - horria.td1j@yahoo.com was inserted into input
+2024-04-11 12:14:49.895 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:14:50.579 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:50.630 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:50.835 [main] INFO  utils.LogsConfig - horria.td1j@yahoo.com was inserted into input
+2024-04-11 12:14:51.027 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:14:51.606 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:51.650 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-11 12:14:51.672 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:14:51.673 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:14:51.696 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:14:51.939 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:14:54.294 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:14:58.081 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:14:58.218 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:14:58.218 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:14:58.377 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:14:58.634 [main] INFO  utils.LogsConfig - horia.t1j@gmail.com was inserted into input
+2024-04-11 12:14:58.827 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:14:59.425 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:14:59.480 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:14:59.722 [main] INFO  utils.LogsConfig - horia.t1j@gmail.com was inserted into input
+2024-04-11 12:14:59.913 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:15:00.577 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:15:00.629 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:15:00.862 [main] INFO  utils.LogsConfig - horia.t1j@gmail.com was inserted into input
+2024-04-11 12:15:01.106 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:15:01.715 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:15:01.764 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:15:01.995 [main] INFO  utils.LogsConfig - horia.t1j@gmail.com was inserted into input
+2024-04-11 12:15:02.191 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:15:02.805 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:15:02.852 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:15:03.058 [main] INFO  utils.LogsConfig - horia.t1j@gmail.com was inserted into input
+2024-04-11 12:15:03.268 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:15:03.863 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:15:03.915 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:15:04.119 [main] INFO  utils.LogsConfig - horia.t1j@gmail.com was inserted into input
+2024-04-11 12:15:04.305 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:15:04.891 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:15:04.934 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-11 12:15:04.958 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:15:04.959 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:15:04.983 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:15:05.223 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:15:07.628 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:15:11.412 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:15:11.549 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:15:11.549 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:15:11.714 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:15:11.977 [main] INFO  utils.LogsConfig - horia_t1j@yahoo.com was inserted into input
+2024-04-11 12:15:12.178 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:15:12.876 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:15:12.935 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:15:13.151 [main] INFO  utils.LogsConfig - horia_t1j@yahoo.com was inserted into input
+2024-04-11 12:15:13.358 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:15:13.956 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:15:14.006 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:15:14.200 [main] INFO  utils.LogsConfig - horia_t1j@yahoo.com was inserted into input
+2024-04-11 12:15:14.398 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:15:14.998 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:15:15.051 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:15:15.248 [main] INFO  utils.LogsConfig - horia_t1j@yahoo.com was inserted into input
+2024-04-11 12:15:15.418 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:15:16.013 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:15:16.063 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:15:16.308 [main] INFO  utils.LogsConfig - horia_t1j@yahoo.com was inserted into input
+2024-04-11 12:15:16.521 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:15:17.116 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:15:17.164 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:15:17.361 [main] INFO  utils.LogsConfig - horia_t1j@yahoo.com was inserted into input
+2024-04-11 12:15:17.549 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:15:18.127 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:15:18.169 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-11 12:15:18.190 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:15:18.190 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:15:18.208 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:15:18.426 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:15:20.847 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:15:24.469 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:15:24.623 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:15:24.624 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials
+2024-04-11 12:15:24.849 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:15:25.132 [main] INFO  utils.LogsConfig - peii95@gmail.com was inserted into input
+2024-04-11 12:15:25.334 [main] INFO  utils.LogsConfig - it9a36136j was inserted into input
+2024-04-11 12:15:26.036 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:15:26.102 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:15:26.102 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials
+2024-04-11 12:15:26.124 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:15:26.366 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:15:29.026 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:15:32.653 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:15:32.779 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:15:32.779 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-11 12:15:32.943 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:15:33.169 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-11 12:15:33.347 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:15:34.581 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:15:34.609 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-11 12:15:34.609 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-11 12:15:34.633 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:15:34.902 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:20:00.875 [main] INFO  utils.LogsConfig - Logger has been initialized
+2024-04-11 12:20:01.394 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-11 12:20:02.468 [main] INFO  utils.LogsConfig - A GET request was sent to the server with the endpoint: api/unknown
+2024-04-11 12:20:03.957 [main] INFO  utils.LogsConfig - All Resources that have color code numbers: [#98B2D1, #C74375, #BF1932, #7BC4C4, #E2583E, #53B0AE] corresponding to this regex: ^#[0-9A-Z]{6}$
+2024-04-11 12:20:03.972 [main] INFO  utils.LogsConfig - Specifications installed with response code: 201
+2024-04-11 12:20:04.265 [main] INFO  utils.LogsConfig - A POST request was sent to the server with the endpoint: api/users
+2024-04-11 12:20:04.299 [main] INFO  utils.LogsConfig - Actual Time: 2024-04-11T09:20:04.233 + 5 sec. is before Expected Time: 2024-04-11T09:20:04.278699700
+2024-04-11 12:20:04.307 [main] INFO  utils.LogsConfig - Specifications installed with response code: 400
+2024-04-11 12:20:04.494 [main] INFO  utils.LogsConfig - A POST request was sent to the server with the endpoint: api/login
+2024-04-11 12:20:04.497 [main] INFO  utils.LogsConfig - Actual Error message: Missing password. Expected Error message: Missing password.
+2024-04-11 12:20:04.504 [main] INFO  utils.LogsConfig - Specifications installed with response code: 200
+2024-04-11 12:20:04.673 [main] INFO  utils.LogsConfig - A PUT request was sent to the server with the endpoint: /api/users/2
+2024-04-11 12:20:04.675 [main] INFO  utils.LogsConfig - Actual Time: 2024-04-11T09:20:04.641 + 5 sec. is before Expected Time: 2024-04-11T09:20:04.675073700
+2024-04-11 12:20:07.287 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:20:10.829 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:20:10.952 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:20:10.952 [main] INFO  utils.LogsConfig - Starting scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-11 12:20:11.364 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-11 12:20:11.534 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:20:12.777 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:12.819 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-11 12:20:13.853 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-11 12:20:13.913 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-11 12:20:13.935 [main] INFO  utils.LogsConfig - User is on Edit Account page
+2024-04-11 12:20:14.132 [main] INFO  utils.LogsConfig - Tudorita was inserted into input
+2024-04-11 12:20:14.285 [main] INFO  utils.LogsConfig - Horatiu was inserted into input
+2024-04-11 12:20:14.515 [main] INFO  utils.LogsConfig - 079555005 was inserted into input
+2024-04-11 12:20:15.255 [main] INFO  utils.LogsConfig - Click on element: Continue
+2024-04-11 12:20:15.309 [main] INFO  utils.LogsConfig - Alert Success Message is displayed: Success: Your account has been successfully updated.
+2024-04-11 12:20:15.822 [main] INFO  utils.LogsConfig - Click on element: Edit your account information
+2024-04-11 12:20:15.860 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Tudorita
+2024-04-11 12:20:15.894 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: Horatiu
+2024-04-11 12:20:15.943 [main] INFO  utils.LogsConfig - Edit account page contains values of the followings account information: 079555005
+2024-04-11 12:20:15.944 [main] INFO  utils.LogsConfig - Finished scenario: Check If user is able to edit Account Information and alert-success message is displayed on account page
+2024-04-11 12:20:15.964 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:20:16.250 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:20:19.164 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:20:24.390 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:20:24.532 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:20:24.533 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:20:24.705 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:20:24.920 [main] INFO  utils.LogsConfig - horia.td1k@yahoo.com was inserted into input
+2024-04-11 12:20:25.116 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-11 12:20:25.799 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:25.855 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:26.071 [main] INFO  utils.LogsConfig - horia.td1k@yahoo.com was inserted into input
+2024-04-11 12:20:26.267 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-11 12:20:26.866 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:26.918 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:27.122 [main] INFO  utils.LogsConfig - horia.td1k@yahoo.com was inserted into input
+2024-04-11 12:20:27.330 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-11 12:20:28.021 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:28.074 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:28.303 [main] INFO  utils.LogsConfig - horia.td1k@yahoo.com was inserted into input
+2024-04-11 12:20:28.487 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-11 12:20:29.074 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:29.132 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:29.332 [main] INFO  utils.LogsConfig - horia.td1k@yahoo.com was inserted into input
+2024-04-11 12:20:29.501 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-11 12:20:30.083 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:30.130 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:30.312 [main] INFO  utils.LogsConfig - horia.td1k@yahoo.com was inserted into input
+2024-04-11 12:20:30.496 [main] INFO  utils.LogsConfig - test_01! was inserted into input
+2024-04-11 12:20:31.104 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:31.152 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-11 12:20:31.170 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:20:31.171 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:20:31.192 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:20:31.429 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:20:33.648 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:20:37.234 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:20:37.377 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:20:37.378 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:20:37.521 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:20:37.732 [main] INFO  utils.LogsConfig - horia.ta1k@yahoo.com was inserted into input
+2024-04-11 12:20:37.908 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-11 12:20:38.458 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:38.508 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:38.728 [main] INFO  utils.LogsConfig - horia.ta1k@yahoo.com was inserted into input
+2024-04-11 12:20:38.947 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-11 12:20:39.520 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:39.564 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:39.768 [main] INFO  utils.LogsConfig - horia.ta1k@yahoo.com was inserted into input
+2024-04-11 12:20:39.961 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-11 12:20:40.524 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:40.569 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:40.755 [main] INFO  utils.LogsConfig - horia.ta1k@yahoo.com was inserted into input
+2024-04-11 12:20:40.929 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-11 12:20:41.505 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:41.551 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:41.760 [main] INFO  utils.LogsConfig - horia.ta1k@yahoo.com was inserted into input
+2024-04-11 12:20:41.941 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-11 12:20:42.529 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:42.578 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:42.784 [main] INFO  utils.LogsConfig - horia.ta1k@yahoo.com was inserted into input
+2024-04-11 12:20:42.973 [main] INFO  utils.LogsConfig - Test-01! was inserted into input
+2024-04-11 12:20:43.539 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:43.581 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-11 12:20:43.601 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:20:43.602 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:20:43.624 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:20:43.858 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:20:46.111 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:20:49.662 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:20:49.794 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:20:49.794 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:20:49.962 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:20:50.237 [main] INFO  utils.LogsConfig - horia.td1k&yahoo.com was inserted into input
+2024-04-11 12:20:50.471 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-11 12:20:51.042 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:51.119 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:51.371 [main] INFO  utils.LogsConfig - horia.td1k&yahoo.com was inserted into input
+2024-04-11 12:20:51.592 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-11 12:20:52.183 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:52.228 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:52.428 [main] INFO  utils.LogsConfig - horia.td1k&yahoo.com was inserted into input
+2024-04-11 12:20:52.611 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-11 12:20:53.192 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:53.236 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:53.436 [main] INFO  utils.LogsConfig - horia.td1k&yahoo.com was inserted into input
+2024-04-11 12:20:53.634 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-11 12:20:54.181 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:54.296 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:54.487 [main] INFO  utils.LogsConfig - horia.td1k&yahoo.com was inserted into input
+2024-04-11 12:20:54.687 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-11 12:20:55.296 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:55.345 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:20:55.558 [main] INFO  utils.LogsConfig - horia.td1k&yahoo.com was inserted into input
+2024-04-11 12:20:55.746 [main] INFO  utils.LogsConfig - Test_01!! was inserted into input
+2024-04-11 12:20:56.371 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:20:56.416 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-11 12:20:56.433 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:20:56.434 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:20:56.457 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:20:56.692 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:20:58.992 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:21:02.613 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:21:02.744 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:21:02.745 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:21:02.914 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:21:03.245 [main] INFO  utils.LogsConfig - horria.td1k@yahoo.com was inserted into input
+2024-04-11 12:21:03.477 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:04.092 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:04.168 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:04.392 [main] INFO  utils.LogsConfig - horria.td1k@yahoo.com was inserted into input
+2024-04-11 12:21:04.576 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:05.163 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:05.206 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:05.422 [main] INFO  utils.LogsConfig - horria.td1k@yahoo.com was inserted into input
+2024-04-11 12:21:05.622 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:06.238 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:06.298 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:06.534 [main] INFO  utils.LogsConfig - horria.td1k@yahoo.com was inserted into input
+2024-04-11 12:21:06.771 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:07.428 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:07.476 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:07.692 [main] INFO  utils.LogsConfig - horria.td1k@yahoo.com was inserted into input
+2024-04-11 12:21:07.912 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:08.510 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:08.564 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:08.766 [main] INFO  utils.LogsConfig - horria.td1k@yahoo.com was inserted into input
+2024-04-11 12:21:08.950 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:09.554 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:09.591 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-11 12:21:09.608 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:21:09.609 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:21:09.627 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:21:09.859 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:21:13.090 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:21:16.809 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:21:16.968 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:21:16.969 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:21:17.125 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:21:17.393 [main] INFO  utils.LogsConfig - horia.t1k@gmail.com was inserted into input
+2024-04-11 12:21:17.584 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:18.290 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:18.344 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:18.564 [main] INFO  utils.LogsConfig - horia.t1k@gmail.com was inserted into input
+2024-04-11 12:21:18.752 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:19.374 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:19.426 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:19.680 [main] INFO  utils.LogsConfig - horia.t1k@gmail.com was inserted into input
+2024-04-11 12:21:19.889 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:20.502 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:20.552 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:20.756 [main] INFO  utils.LogsConfig - horia.t1k@gmail.com was inserted into input
+2024-04-11 12:21:20.962 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:21.720 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:21.762 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:21.941 [main] INFO  utils.LogsConfig - horia.t1k@gmail.com was inserted into input
+2024-04-11 12:21:22.143 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:22.743 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:22.793 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:22.985 [main] INFO  utils.LogsConfig - horia.t1k@gmail.com was inserted into input
+2024-04-11 12:21:23.180 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:23.830 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:23.872 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-11 12:21:23.891 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:21:23.892 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:21:23.910 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:21:24.160 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:21:26.604 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:21:30.141 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:21:30.277 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:21:30.277 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:21:30.432 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:21:30.683 [main] INFO  utils.LogsConfig - horia_t1k@yahoo.com was inserted into input
+2024-04-11 12:21:30.887 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:31.453 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:31.524 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:31.718 [main] INFO  utils.LogsConfig - horia_t1k@yahoo.com was inserted into input
+2024-04-11 12:21:31.909 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:32.515 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:32.562 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:32.757 [main] INFO  utils.LogsConfig - horia_t1k@yahoo.com was inserted into input
+2024-04-11 12:21:32.948 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:33.533 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:33.581 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:33.774 [main] INFO  utils.LogsConfig - horia_t1k@yahoo.com was inserted into input
+2024-04-11 12:21:33.987 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:34.573 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:34.620 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:34.807 [main] INFO  utils.LogsConfig - horia_t1k@yahoo.com was inserted into input
+2024-04-11 12:21:34.993 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:35.571 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:35.620 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:35.816 [main] INFO  utils.LogsConfig - horia_t1k@yahoo.com was inserted into input
+2024-04-11 12:21:36.026 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:36.604 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:36.645 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour. for login attempts with invalid credentials
+2024-04-11 12:21:36.664 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:21:36.664 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials and the corresponding errors are displayed
+2024-04-11 12:21:36.690 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:21:36.949 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:21:39.339 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:21:43.074 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:21:43.216 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:21:43.217 [main] INFO  utils.LogsConfig - Starting scenario: Verify If user is not able to login with invalid credentials
+2024-04-11 12:21:43.395 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:21:43.647 [main] INFO  utils.LogsConfig - vase78@gmail.com was inserted into input
+2024-04-11 12:21:43.849 [main] INFO  utils.LogsConfig - t8981g38sd was inserted into input
+2024-04-11 12:21:44.479 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:44.554 [main] INFO  utils.LogsConfig - Alert message is displayed: Warning: No match for E-Mail Address and/or Password. for login attempts with invalid credentials
+2024-04-11 12:21:44.555 [main] INFO  utils.LogsConfig - Finished scenario: Verify If user is not able to login with invalid credentials
+2024-04-11 12:21:44.579 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:21:44.829 [main] INFO  utils.LogsConfig - Driver closed
+2024-04-11 12:21:47.637 [main] INFO  utils.LogsConfig - New driver instantiated
+2024-04-11 12:21:51.228 [main] INFO  utils.LogsConfig - Web application launched
+2024-04-11 12:21:51.365 [main] INFO  utils.LogsConfig - Window maximized
+2024-04-11 12:21:51.365 [main] INFO  utils.LogsConfig - Starting scenario: Successful Login User
+2024-04-11 12:21:51.528 [main] INFO  utils.LogsConfig -  User is on Login Page
+2024-04-11 12:21:51.790 [main] INFO  utils.LogsConfig - horia.td@yahoo.com was inserted into input
+2024-04-11 12:21:51.983 [main] INFO  utils.LogsConfig - Test_01! was inserted into input
+2024-04-11 12:21:53.256 [main] INFO  utils.LogsConfig - Click on element: Login
+2024-04-11 12:21:53.286 [main] INFO  utils.LogsConfig - Account page is displayed
+2024-04-11 12:21:53.286 [main] INFO  utils.LogsConfig - Finished scenario: Successful Login User
+2024-04-11 12:21:53.311 [main] INFO  utils.LogsConfig - Deleting Cookies
+2024-04-11 12:21:53.592 [main] INFO  utils.LogsConfig - Driver closed

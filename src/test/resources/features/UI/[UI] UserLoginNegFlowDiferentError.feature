@@ -34,11 +34,11 @@ Feature: User Login Negativ Flow with Different Error
 
     Examples:
       | email                 | password  |
-      | horia.td1h@yahoo.com  | test_01!  |
-      | horia.ta1h@yahoo.com  | Test-01!  |
-      | horia.td1h&yahoo.com  | Test_01!! |
-      | horria.td1h@yahoo.com | Test_01!  |
-      | horia.t1h@gmail.com   | Test_01!  |
-      | horia_t1h@yahoo.com   | Test_01!  |
+      | horia.td1k@yahoo.com  | test_01!  |
+      | horia.ta1k@yahoo.com  | Test-01!  |
+      | horia.td1k&yahoo.com  | Test_01!! |
+      | horria.td1k@yahoo.com | Test_01!  |
+      | horia.t1k@gmail.com   | Test_01!  |
+      | horia_t1k@yahoo.com   | Test_01!  |
 
 

@@ -34,7 +34,6 @@ public class CommonActions {
         webElement.click();
 
         logger.info("Click on element: " + tagName);
-        //logger.info("Click on element: " + webElement.getTagName());
     }
 
     public static void sendKeys(WebElement field, String inputData) {
