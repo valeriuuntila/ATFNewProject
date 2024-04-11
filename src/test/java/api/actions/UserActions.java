@@ -1,10 +1,11 @@
 package api.actions;
 
-import api.ColorsData;
-import api.UserUpdateResponse;
+import api.dtos.ColorsData;
 import api.dtos.UnSuccessLogin;
 import api.dtos.UserCreateResponse;
+import api.dtos.UserUpdateResponse;
 import io.cucumber.java.en.Then;
+import io.restassured.response.Response;
 import org.apache.logging.log4j.Logger;
 import org.assertj.core.api.SoftAssertions;
 import scenariocontext.ScenarioContext;
@@ -18,12 +19,14 @@ import static java.time.ZoneOffset.UTC;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class UserActions {
+    private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
 
     private final static Logger logger = LogsConfig.getLogger();
 
+
     @Then("All Resource have color code that matches this regex: {string}")
     public void checkColorsCode(String regex) {
-        List<ColorsData> colors = ScenarioContext.response
+        List<ColorsData> colors = ((Response) scenarioContext.getContext("RESPONSE"))
                 .body().jsonPath().getList("data", ColorsData.class);
 
         List<String> colorsAsStrings = colors.stream()
@@ -44,7 +47,7 @@ public class UserActions {
 
     @Then("The time for updatedAt field corresponds to the actual time of this update")
     public void theTimeForUpdatedAtFieldCorrespondsToTheActualTimeOfThisUpdate() {
-        UserUpdateResponse response = ScenarioContext.response
+        UserUpdateResponse response = ((Response) scenarioContext.getContext("RESPONSE"))
                 .as(UserUpdateResponse.class);
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSSX");
@@ -61,7 +64,7 @@ public class UserActions {
 
     @Then("The User can't login And error message with text {string} is displayed")
     public void theUserCanTLoginAndErrorMessageIsDisplayed(String expectedError) {
-        UnSuccessLogin response = ScenarioContext.response
+        UnSuccessLogin response = ((Response) scenarioContext.getContext("RESPONSE"))
                 .as(UnSuccessLogin.class);
         String actualError = response.getError();
 
@@ -74,7 +77,7 @@ public class UserActions {
 
     @Then("The time for createdAt field corresponds to the actual time of this create")
     public void theTimeForCreatedAtFieldCorrespondsToTheActualTimeOfThisCreate() {
-        UserCreateResponse createResponse = ScenarioContext.response
+        UserCreateResponse createResponse = ((Response) scenarioContext.getContext("RESPONSE"))
                 .as(UserCreateResponse.class);
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSSX");

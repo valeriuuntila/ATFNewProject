@@ -1,6 +1,7 @@
 package pages;
 
 import actions.CommonActions;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
@@ -22,21 +23,26 @@ public class EditAccountPage extends Page {
     @FindBy(xpath = "//label/following-sibling::div/input")
     private List<WebElement> inputFields;
 
-    public EditAccountPage() {
-        super();
+    public EditAccountPage(WebDriver driver) {
+        super(driver);
     }
+
     public WebElement getEditAccountPage() {
         return EditAccountPage;
     }
+
     public WebElement getSubmitContinue() {
         return submitContinue;
     }
+
     public WebElement getAlertSuccessMessageContainer() {
         return alertSuccessMessageContainer;
     }
+
     public List<WebElement> getInputFields() {
         return inputFields;
     }
+
     public void setInput(String inputName, String value) {
         CommonActions.sendKeys(getInputByName(inputName), value);
     }

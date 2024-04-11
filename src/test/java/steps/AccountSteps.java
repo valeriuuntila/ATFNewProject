@@ -6,21 +6,23 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
+import org.openqa.selenium.WebDriver;
 import pages.AccountPage;
+import scenariocontext.ScenarioContext;
 import utils.LogsConfig;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class AccountSteps {
-    private final static Logger logger = LogsConfig.getLogger();
-    AccountPage accountPage = new AccountPage();
+    private static final Logger logger = LogsConfig.getLogger();
+
+    private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
+    AccountPage accountPage = new AccountPage(((WebDriver) scenarioContext.getContext("DRIVER")));
     @Then("the User is redirected to the Account page")
     public void theUserIsRedirectedToTheAccountPage() {
         assertThat(accountPage.getOpenAccountPageTitle().isDisplayed())
-                .as("Account page should be displayed")
-                .isTrue();
+                .as("Account page should be displayed");
         logger.info("Account page is displayed");
-        //Assert.assertTrue(accountPage.getOpenAccountPageTitle().isDisplayed());
 
     }
 

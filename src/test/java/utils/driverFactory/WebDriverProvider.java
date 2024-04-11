@@ -34,6 +34,7 @@ public class WebDriverProvider {
     public void quitDriver() {
         if (driver != null) {
             driver.quit();
+            driver = null;
         }
     }
 

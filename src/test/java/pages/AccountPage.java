@@ -1,5 +1,6 @@
 package pages;
 
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 public class AccountPage extends Page {
@@ -15,8 +16,8 @@ public class AccountPage extends Page {
     @FindBy(xpath = "//a[text()=' Edit your account information']")
     private WebElement editAccountIcon;
 
-    public AccountPage() {
-        super();
+    public AccountPage(WebDriver driver) {
+        super(driver);
     }
 
     public WebElement getOpenAccountPageTitle() {
