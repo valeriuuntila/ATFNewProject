@@ -25,7 +25,7 @@ public class CommonActions {
 
     private final static Logger logger = LogsConfig.getLogger();
 
-    public static void clickOnWebElement(WebElement webElement) throws InterruptedException {
+    public static void clickOnWebElement(WebElement webElement) {
         waiter.until(ExpectedConditions.visibilityOf(webElement));
         waiter.until(ExpectedConditions.elementToBeClickable(webElement));
 
@@ -34,7 +34,6 @@ public class CommonActions {
         webElement.click();
 
         logger.info("Click on element: " + tagName);
-        //logger.info("Click on element: " + webElement.getTagName());
     }
 
     public static void sendKeys(WebElement field, String inputData) {

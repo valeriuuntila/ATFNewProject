@@ -7,6 +7,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
+import pages.AccountPage;
 import pages.LoginPage;
 import scenariocontext.ScenarioContext;
 import utils.GenerateData;
@@ -16,9 +17,9 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class LoginSteps {
     private final static Logger logger = LogsConfig.getLogger();
-
     private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
     LoginPage loginPage = new LoginPage(((WebDriver) scenarioContext.getContext("DRIVER")));
+    AccountPage accountPage = new AccountPage(((WebDriver) scenarioContext.getContext("DRIVER")));
     GenerateData generateData = new GenerateData();
 
     @Given("User is on the Login page")
@@ -39,9 +40,19 @@ public class LoginSteps {
     }
 
     @And("the User click on Login button")
-    public void theUserClickOnLoginButton() throws InterruptedException {
+    public void theUserClickOnLoginButton() {
         CommonActions.clickOnWebElement(loginPage.getSubmitLogin());
 
+    }
+
+    @When("user logs in with email: {string} and password: {string}")
+    public void userLogsInWithEmailAndPassword(String email, String password) {
+        CommonActions.sendKeys(loginPage.getEmailInput(), email);
+        CommonActions.sendKeys(loginPage.getPasswordInput(), password);
+        CommonActions.clickOnWebElement(loginPage.getSubmitLogin());
+        assertThat(accountPage.getOpenAccountPageTitle().isDisplayed())
+                .as("Account page should be displayed");
+        logger.info("Account page is displayed");
     }
 
     //The second scenario (TC) User Login. Negative Flow
@@ -67,5 +78,12 @@ public class LoginSteps {
     public void theUserEntersForTheTimeTheFollowingInvalidCredentialsAtempt(String attempt, String email, String password) {
         userLogsInByEnteringTheEmail(email);
         userLogsInByEnteringThePassword(password);
+    }
+
+    @When("user logs in with valid credentials email: {string} and password: {string}")
+    public void userLogsInWithValidCredentialsEmailAndPassword(String email, String password) {
+        CommonActions.sendKeys(loginPage.getEmailInput(), email);
+        CommonActions.sendKeys(loginPage.getPasswordInput(), password);
+        CommonActions.clickOnWebElement(loginPage.getSubmitLogin());
     }
 }

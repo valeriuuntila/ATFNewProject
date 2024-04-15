@@ -37,14 +37,11 @@ public class LoginPage extends Page {
     public WebElement getSubmitLogin() {
         return submitLogin;
     }
-
-    public WebElement getAlertMessageContainer() {
-        return alertMessageContainer;
-    }
-
     public String getAlertMessage() {
         return alertMessageContainer.getText();
     }
+
+
 
 }
 

@@ -7,9 +7,6 @@ public class AccountPage extends Page {
     @FindBy(xpath = "//h2[text()='My Account']")
     private WebElement openAccountPageTitle;
 
-    @FindBy(xpath = "//input[@type='submit']")
-    private WebElement submitContinue;
-
     @FindBy(xpath = "//div[contains(@class,'alert-success')]")
     private WebElement alertSuccessMessageContainer;
 
@@ -22,9 +19,6 @@ public class AccountPage extends Page {
 
     public WebElement getOpenAccountPageTitle() {
         return openAccountPageTitle;
-    }
-    public WebElement getSubmitContinue() {
-        return submitContinue;
     }
     public WebElement getAlertSuccessMessageContainer() {
         return alertSuccessMessageContainer;

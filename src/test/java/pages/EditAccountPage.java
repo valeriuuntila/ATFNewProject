@@ -13,7 +13,6 @@ public class EditAccountPage extends Page {
     @FindBy(xpath = "//h1[text()='My Account Information']")
     WebElement EditAccountPage;
 
-
     @FindBy(xpath = "//input[@type='submit']")
     private WebElement submitContinue;
 
@@ -33,14 +32,6 @@ public class EditAccountPage extends Page {
 
     public WebElement getSubmitContinue() {
         return submitContinue;
-    }
-
-    public WebElement getAlertSuccessMessageContainer() {
-        return alertSuccessMessageContainer;
-    }
-
-    public List<WebElement> getInputFields() {
-        return inputFields;
     }
 
     public void setInput(String inputName, String value) {

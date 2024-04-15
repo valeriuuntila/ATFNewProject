@@ -1,5 +1,5 @@
 @NegativeDifferentError @UI
-Feature: User Login Negativ Flow with Different Error
+Feature: User Login Negative Flow with Different Error
 
   Background: User already has a created Account
     Given User is on the Login page
@@ -33,12 +33,9 @@ Feature: User Login Negativ Flow with Different Error
     And User is on the Login page
 
     Examples:
-      | email                 | password  |
-      | horia.td1h@yahoo.com  | test_01!  |
-      | horia.ta1h@yahoo.com  | Test-01!  |
-      | horia.td1h&yahoo.com  | Test_01!! |
-      | horria.td1h@yahoo.com | Test_01!  |
-      | horia.t1h@gmail.com   | Test_01!  |
-      | horia_t1h@yahoo.com   | Test_01!  |
+      | email                  | password |
+      | horia.td1uga@yahoo.com | test_01! |
+      | horia.t1uga@gmail.com  | Test_01! |
+
 
 
