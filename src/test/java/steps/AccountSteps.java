@@ -39,9 +39,12 @@ public class AccountSteps {
     }
 
     @When("The User Goes to Edit Account page")
-    public void theUserGoesToEditAccountPage() throws InterruptedException {
+    public void theUserGoesToEditAccountPage() {
         CommonActions.clickOnWebElement(accountPage.getEditAccountIcon());
     }
 
-
+    @And("User clicks on the Edit Account page")
+    public void userClicksOnTheEditAccountPage() {
+        CommonActions.clickOnWebElement(accountPage.getEditAccountIcon());
+    }
 }

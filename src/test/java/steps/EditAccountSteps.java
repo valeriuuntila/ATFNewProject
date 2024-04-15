@@ -8,7 +8,9 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
+import pages.AccountPage;
 import pages.EditAccountPage;
+import pages.LoginPage;
 import scenariocontext.ScenarioContext;
 import utils.LogsConfig;
 
@@ -19,12 +21,14 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class EditAccountSteps {
     private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
     EditAccountPage editAccountPage = new EditAccountPage(((WebDriver) scenarioContext.getContext("DRIVER")));
+    AccountPage accountPage = new AccountPage(((WebDriver) scenarioContext.getContext("DRIVER")));
+    LoginPage loginPage = new LoginPage(((WebDriver) scenarioContext.getContext("DRIVER")));
+    LoginSteps loginSteps = new LoginSteps();
     private final static Logger logger = LogsConfig.getLogger();
-
+    //GenerateData generateData = new GenerateData();
 
     @Given("User is on the Edit Account page")
     public void userIsOnTheEditAccountPage() {
-        //Assert.assertTrue(editAccountPage.getEditAccountPage().isDisplayed());
         assertThat(editAccountPage.getEditAccountPage().isDisplayed())
                 .as("User should be on Edit Account page");
         logger.info("User is on Edit Account page");
@@ -41,7 +45,7 @@ public class EditAccountSteps {
     }
 
     @And("The User click on Continue button")
-    public void theUserClickOnContinueButton() throws InterruptedException {
+    public void theUserClickOnContinueButton() {
         CommonActions.clickOnWebElement(editAccountPage.getSubmitContinue());
 
     }
@@ -52,7 +56,6 @@ public class EditAccountSteps {
         Map<String, String> expectedParameters = table.asMap();
 
         expectedParameters.forEach((field, value) -> {
-            //Assert.assertEquals(value, editAccountPage.getInputByName(field).getAttribute("value"));
             assertThat(editAccountPage.getInputByName(field))
                     .extracting(element -> element.getAttribute("value"))
                     .as("Edit account page should be contains values of the followings account information" +
@@ -63,5 +66,6 @@ public class EditAccountSteps {
         });
     }
 
-
 }
+
+

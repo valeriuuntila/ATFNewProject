@@ -25,7 +25,7 @@ public class CommonActions {
 
     private final static Logger logger = LogsConfig.getLogger();
 
-    public static void clickOnWebElement(WebElement webElement) throws InterruptedException {
+    public static void clickOnWebElement(WebElement webElement) {
         waiter.until(ExpectedConditions.visibilityOf(webElement));
         waiter.until(ExpectedConditions.elementToBeClickable(webElement));
 

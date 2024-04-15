@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
         glue = {"steps", "api"},
         //tags = "@UI",
         //tags = "@API",
-        //tags = "@GetResourceList",
+        //tags = "@Edit",
 
         plugin = {"pretty", "html:reports/cucumber-reports/cucumber-report.html"})
 public class TestRunner {

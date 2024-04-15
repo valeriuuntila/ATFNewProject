@@ -1,5 +1,5 @@
 @Login @UI
-Feature: User Login Pozitiv Flow
+Feature: User Login Positive Flow
 
   Background: User already has a created Account
     Given User is on the Login page
@@ -7,7 +7,5 @@ Feature: User Login Pozitiv Flow
 
   Scenario: Successful Login User
 
-    When user logs in by entering the email: "horia.td@yahoo.com"
-    And user logs in by entering the password: "Test_01!"
-    And the User click on Login button
+    When user logs in with valid credentials email: "horia.td@yahoo.com" and password: "Test_01!"
     Then the User is redirected to the Account page
