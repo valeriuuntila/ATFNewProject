@@ -18,5 +18,5 @@ Feature: User Login Negative Flow
 
     Examples:
       | times | email                 | password |
-      | 6     | horia.td1cv@yahoo.com | test_01! |
-      | 6     | horia.t1rcv@gmail.com | Test_01! |
+      | 6     | horia.td1cs@yahoo.com | test_01! |
+      | 6     | horia.t1rcs@gmail.com | Test_01! |
