@@ -38,13 +38,9 @@ public class AccountSteps {
         logger.info("Alert Success Message is displayed: " + accountPage.getAlertSuccessMessageContainer().getText());
     }
 
-    @When("The User Goes to Edit Account page")
-    public void theUserGoesToEditAccountPage() {
-        CommonActions.clickOnWebElement(accountPage.getEditAccountIcon());
-    }
-
     @And("User clicks on the Edit Account page")
     public void userClicksOnTheEditAccountPage() {
         CommonActions.clickOnWebElement(accountPage.getEditAccountIcon());
+        logger.info("Edit Account page is displayed");
     }
 }

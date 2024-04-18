@@ -37,11 +37,11 @@ public class EditAccountSteps {
     @When("The User enters following account information:")
     public void theUserEntersFollowingAccountInformation(DataTable table) {
         Map<String, String> inputFieldParameters = table.asMap();
-
         inputFieldParameters.forEach((field, value) -> {
             editAccountPage.setInput(field, value);
         });
-
+        CommonActions.clickOnWebElement(editAccountPage.getSubmitContinue());
+        logger.info("User was redirected on Account page");
     }
 
     @And("The User click on Continue button")
@@ -51,8 +51,8 @@ public class EditAccountSteps {
     }
 
 
-    @Then("The Account Information  contain the following:")
-    public void theAccountInformationContainTheFollowing(DataTable table) {
+    @Then("The Account Information  contain updated account information:")
+    public void theAccountInformationContainUpdatedAccountInformation(DataTable table) {
         Map<String, String> expectedParameters = table.asMap();
 
         expectedParameters.forEach((field, value) -> {

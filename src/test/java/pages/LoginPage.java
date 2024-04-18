@@ -2,6 +2,7 @@ package pages;
 
 //import lombok.Getter;
 
+import actions.CommonActions;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -39,6 +40,17 @@ public class LoginPage extends Page {
     }
     public String getAlertMessage() {
         return alertMessageContainer.getText();
+    }
+
+    public void loginWithCredentials(String email, String password) {
+        CommonActions.sendKeys(emailInput, email);
+        CommonActions.sendKeys(passwordInput, password);
+        CommonActions.clickOnWebElement(submitLogin);
+    }
+    public void loginWithSameCredentialsForNTimes(String email, String password, int times) {
+        for (int i = 0; i < times; i++) {
+            loginWithCredentials(email, password);
+        }
     }
 
 
