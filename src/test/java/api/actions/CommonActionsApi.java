@@ -8,12 +8,12 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;
 import io.restassured.response.Response;
 import org.apache.logging.log4j.Logger;
-import scenariocontext.ScenarioContext;
-import utils.LogsConfig;
+import scenario_context.ScenarioContext;
+import utils.logs_config.LogsConfig;
 
 import static io.restassured.RestAssured.given;
 
-public class CommonActions {
+public class CommonActionsApi {
     private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
     UpdateUserData userUpdate = new UpdateUserData("morpheus", "zion resident");
     CreateUserData userCreate = new CreateUserData("morpheus", "leader", "676");
@@ -32,52 +32,52 @@ public class CommonActions {
     }
 
     @When("a GET request is sent to the server with the endpoint {string}")
-    public void getRequestIsSentTo(String endpoint1) {
+    public void getRequestIsSentTo(String endpoint) {
         Response response = given()
                 .when()
-                .get(endpoint1)
+                .get(endpoint)
                 .then().log().all()
                 .extract().response();
         scenarioContext.setContext("RESPONSE", response);
-        logger.info("A GET request was sent to the server with the endpoint: " + endpoint1);
+        logger.info("A GET request was sent to the server with the endpoint: " + endpoint);
     }
 
     @When("a PUT request is sent to the server with the endpoint {string}")
-    public void putRequestIsSentTo(String endpoint2) {
+    public void putRequestIsSentTo(String endpoint) {
         Response response = given()
                 .body(userUpdate)
                 .when()
-                .put(endpoint2)
+                .put(endpoint)
                 .then().log().all()
                 .extract().response();
         scenarioContext.setContext("RESPONSE", response);
 
-        logger.info("A PUT request was sent to the server with the endpoint: " + endpoint2);
+        logger.info("A PUT request was sent to the server with the endpoint: " + endpoint);
     }
 
     @When("a POST request is sent to the server with the endpoint {string}")
-    public void aPOSTRequestIsSentToTheServerWithTheEndpoint(String endpoint3) {
+    public void aPOSTRequestIsSentToTheServerWithTheEndpoint(String endpoint) {
         Response response = given()
                 .body(userCreate)
                 .when()
-                .post(endpoint3)
+                .post(endpoint)
                 .then().log().all()
                 .extract().response();
         scenarioContext.setContext("RESPONSE", response);
 
-        logger.info("A POST request was sent to the server with the endpoint: " + endpoint3);
+        logger.info("A POST request was sent to the server with the endpoint: " + endpoint);
     }
 
     @When("A POST request is sent to the server with the endpoint {string}")
-    public void aUnSuccessRequestIsSentToTheServerWithTheEndpoint(String endpoint4) {
+    public void aUnSuccessRequestIsSentToTheServerWithTheEndpoint(String endpoint) {
         Response response = given()
                 .body(userWithoutPassword)
-                .post(endpoint4)
+                .post(endpoint)
                 .then().log().all()
                 .extract().response();
         scenarioContext.setContext("RESPONSE", response);
 
-        logger.info("A POST request was sent to the server with the endpoint: " + endpoint4);
+        logger.info("A POST request was sent to the server with the endpoint: " + endpoint);
     }
 
 }

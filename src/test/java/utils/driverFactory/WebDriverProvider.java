@@ -9,14 +9,13 @@ public class WebDriverProvider {
 
     private WebDriver driver;
 
-    public WebDriver initializeDriver(String browser) {
+    public void initializeDriver(String browser) {
         switch (browser) {
             case "chrome" -> driver = initChromeDriver();
             case "firefox" -> driver = initFirefoxDriver();
             case "edge" -> driver = initEdgeDriver();
             default -> throw new IllegalArgumentException("Unsupported browser: " + browser);
         }
-        return driver;
     }
 
     private WebDriver initChromeDriver() {

@@ -1,6 +1,6 @@
 package api.dtos;
 
-public class UserCreateResponse extends CreateUserData{
+public class UserCreateResponse extends CreateUserData {
     private String createdAt;
 
     public UserCreateResponse() {

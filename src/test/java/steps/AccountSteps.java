@@ -1,15 +1,13 @@
 package steps;
 
-import actions.CommonActions;
+import general_actions.CommonActions;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
 import org.apache.logging.log4j.Logger;
-import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import pages.AccountPage;
-import scenariocontext.ScenarioContext;
-import utils.LogsConfig;
+import scenario_context.ScenarioContext;
+import utils.logs_config.LogsConfig;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

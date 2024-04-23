@@ -6,9 +6,9 @@ import io.cucumber.java.en.When;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import pages.LoginPage;
-import scenariocontext.ScenarioContext;
-import utils.GenerateData;
-import utils.LogsConfig;
+import scenario_context.ScenarioContext;
+import utils.faker.FakeGenerateData;
+import utils.logs_config.LogsConfig;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -16,7 +16,7 @@ public class LoginSteps {
     private final static Logger logger = LogsConfig.getLogger();
     private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
     LoginPage loginPage = new LoginPage(((WebDriver) scenarioContext.getContext("DRIVER")));
-    GenerateData generateData = new GenerateData();
+    FakeGenerateData generateData = new FakeGenerateData();
 
 
     @Given("user is on the Login page")

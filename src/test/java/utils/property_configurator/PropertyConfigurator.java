@@ -1,4 +1,4 @@
-package utils;
+package utils.property_configurator;
 
 import java.io.FileInputStream;
 import java.io.IOException;

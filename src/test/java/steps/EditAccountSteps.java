@@ -1,6 +1,6 @@
 package steps;
 
-import actions.CommonActions;
+import general_actions.CommonActions;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
@@ -11,8 +11,8 @@ import org.openqa.selenium.WebDriver;
 import pages.AccountPage;
 import pages.EditAccountPage;
 import pages.LoginPage;
-import scenariocontext.ScenarioContext;
-import utils.LogsConfig;
+import scenario_context.ScenarioContext;
+import utils.logs_config.LogsConfig;
 
 import java.util.Map;
 

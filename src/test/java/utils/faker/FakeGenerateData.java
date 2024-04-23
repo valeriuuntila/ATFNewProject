@@ -1,4 +1,4 @@
-package utils;
+package utils.faker;
 
 
 import com.github.javafaker.service.FakeValuesService;
@@ -6,7 +6,7 @@ import com.github.javafaker.service.RandomService;
 
 import java.util.Locale;
 
-public class GenerateData {
+public class FakeGenerateData {
 
     public String generateEmail() {
         FakeValuesService fakeValuesService = new FakeValuesService(
