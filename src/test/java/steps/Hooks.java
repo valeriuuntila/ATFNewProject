@@ -6,19 +6,19 @@ import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
-import scenariocontext.ScenarioContext;
-import utils.LogsConfig;
-import utils.ScreenShotUtil;
+import scenario_context.ScenarioContext;
 import utils.driverFactory.WebDriverProvider;
+import utils.logs_config.LogsConfig;
+import utils.screenshot_util.ScreenShotUtil;
 
-import static utils.PropertyConfigurator.getProperty;
+import static utils.property_configurator.PropertyConfigurator.getProperty;
 
 
 public class Hooks {
     private final WebDriverProvider webDriverProvider = new WebDriverProvider();
 
     private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
-    private static Logger logger = LogsConfig.getLogger();
+    private static final Logger logger = LogsConfig.getLogger();
 
 
     @Before("@UI")
@@ -35,10 +35,10 @@ public class Hooks {
     }
 
     @AfterStep("@UI")
-    public void afterStep(Scenario scenario) throws Exception {
+    public void afterStep(Scenario scenario) {
         //validate if scenario has failed
         if (scenario.isFailed()) {
-            ScreenShotUtil.takeScreenShot(Thread.currentThread().getStackTrace()[1].getMethodName());
+            ScreenShotUtil.takeScreenShot();
         }
     }
 

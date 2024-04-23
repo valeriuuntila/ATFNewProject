@@ -8,8 +8,8 @@ import io.cucumber.java.en.Then;
 import io.restassured.response.Response;
 import org.apache.logging.log4j.Logger;
 import org.assertj.core.api.SoftAssertions;
-import scenariocontext.ScenarioContext;
-import utils.LogsConfig;
+import scenario_context.ScenarioContext;
+import utils.logs_config.LogsConfig;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

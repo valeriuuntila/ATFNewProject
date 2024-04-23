@@ -1,6 +1,4 @@
-package scenariocontext;
-
-import io.restassured.response.Response;
+package scenario_context;
 
 import java.util.HashMap;
 import java.util.Map;

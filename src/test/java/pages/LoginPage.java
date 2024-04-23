@@ -1,8 +1,7 @@
 package pages;
 
-//import lombok.Getter;
 
-import actions.CommonActions;
+import general_actions.CommonActions;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

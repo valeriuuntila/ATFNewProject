@@ -1,4 +1,4 @@
-package actions;
+package general_actions;
 
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.NoSuchElementException;
@@ -8,8 +8,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
-import scenariocontext.ScenarioContext;
-import utils.LogsConfig;
+import scenario_context.ScenarioContext;
+import utils.logs_config.LogsConfig;
 
 import java.time.Duration;
 import java.time.temporal.ChronoUnit;
