@@ -24,7 +24,7 @@ public class Hooks {
     @Before("@UI")
     public void before(Scenario scenario) {
         ScreenShotUtil.setScenario(scenario);
-        webDriverProvider.initializeDriver("chrome");
+        webDriverProvider.initializeDriver();
         scenarioContext.setContext("DRIVER", webDriverProvider.getDriver());
         logger.info("New driver instantiated");
         ((WebDriver) scenarioContext.getContext("DRIVER")).get(getProperty("URL"));

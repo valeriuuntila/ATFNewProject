@@ -34,7 +34,6 @@
         <json-schema-validator.version>5.4.0</json-schema-validator.version>
         <log4j-api.version>2.23.1</log4j-api.version>
         <log4j-core.version>2.23.1</log4j-core.version>
-        <awaitility.version>4.2.1</awaitility.version>
 
         <maven.compiler.plugin.version>3.11.0</maven.compiler.plugin.version>
         <maven.surefire.plugin.version>3.2.1</maven.surefire.plugin.version>

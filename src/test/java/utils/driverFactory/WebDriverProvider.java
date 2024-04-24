@@ -5,16 +5,18 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class WebDriverProvider {
+import static utils.property_configurator.PropertyConfigurator.getProperty;
 
+public class WebDriverProvider {
+private static final String BROWSER_NAME = getProperty("BROWSER").toLowerCase();
     private WebDriver driver;
 
-    public void initializeDriver(String browser) {
-        switch (browser) {
+    public void initializeDriver() {
+        switch (BROWSER_NAME) {
             case "chrome" -> driver = initChromeDriver();
             case "firefox" -> driver = initFirefoxDriver();
             case "edge" -> driver = initEdgeDriver();
-            default -> throw new IllegalArgumentException("Unsupported browser: " + browser);
+            default -> throw new IllegalArgumentException("Unsupported browser: " + BROWSER_NAME);
         }
     }
 
