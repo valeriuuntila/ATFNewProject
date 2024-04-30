@@ -1,9 +1,6 @@
-package steps;
+package ui.steps;
 
-import io.cucumber.java.After;
-import io.cucumber.java.AfterStep;
-import io.cucumber.java.Before;
-import io.cucumber.java.Scenario;
+import io.cucumber.java.*;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import scenario_context.ScenarioContext;
@@ -19,7 +16,6 @@ public class Hooks {
 
     private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
     private static final Logger logger = LogsConfig.getLogger();
-
 
     @Before("@UI")
     public void before(Scenario scenario) {
@@ -49,5 +45,8 @@ public class Hooks {
         logger.info("Deleting Cookies");
         webDriverProvider.quitDriver();
         logger.info("Driver closed");
+        ScenarioContext.clearContext();
+        logger.info("Context cleared");
     }
+
 }

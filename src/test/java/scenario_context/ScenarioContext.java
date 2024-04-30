@@ -6,7 +6,7 @@ import java.util.Map;
 public class ScenarioContext {
 
     private static ScenarioContext instance;
-    private final Map<String, Object> scenarioContext;
+    private static Map<String, Object> scenarioContext;
 
     private ScenarioContext() {
         scenarioContext = new HashMap<String, Object>();
@@ -17,6 +17,10 @@ public class ScenarioContext {
             instance = new ScenarioContext();
         }
         return instance;
+    }
+
+    public static void clearContext(){
+        scenarioContext.clear();
     }
 
     public void setContext(String key, Object value) {

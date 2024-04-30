@@ -16,7 +16,7 @@ import static io.restassured.RestAssured.given;
 public class CommonActionsApi {
     private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
     UpdateUserData userUpdate = new UpdateUserData("morpheus", "zion resident");
-    CreateUserData userCreate = new CreateUserData("morpheus", "leader", "676");
+    CreateUserData userCreate = new CreateUserData("morpheus", "leader");
 
     SuccessLogin userWithoutPassword = new SuccessLogin("peter@klaven", "");
 

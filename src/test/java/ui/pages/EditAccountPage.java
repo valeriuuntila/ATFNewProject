@@ -1,6 +1,6 @@
-package pages;
+package ui.pages;
 
-import general_actions.CommonActions;
+import ui.general_actions.CommonActions;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -8,7 +8,6 @@ import org.openqa.selenium.support.FindBy;
 import java.util.List;
 
 public class EditAccountPage extends Page {
-
 
     @FindBy(xpath = "//h1[text()='My Account Information']")
     WebElement EditAccountPage;

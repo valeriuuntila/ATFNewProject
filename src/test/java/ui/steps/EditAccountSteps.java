@@ -1,6 +1,6 @@
-package steps;
+package ui.steps;
 
-import general_actions.CommonActions;
+import ui.general_actions.CommonActions;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
@@ -8,9 +8,9 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
-import pages.AccountPage;
-import pages.EditAccountPage;
-import pages.LoginPage;
+import ui.pages.AccountPage;
+import ui.pages.EditAccountPage;
+import ui.pages.LoginPage;
 import scenario_context.ScenarioContext;
 import utils.logs_config.LogsConfig;
 
@@ -21,11 +21,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class EditAccountSteps {
     private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
     EditAccountPage editAccountPage = new EditAccountPage(((WebDriver) scenarioContext.getContext("DRIVER")));
-    AccountPage accountPage = new AccountPage(((WebDriver) scenarioContext.getContext("DRIVER")));
-    LoginPage loginPage = new LoginPage(((WebDriver) scenarioContext.getContext("DRIVER")));
-    LoginSteps loginSteps = new LoginSteps();
     private final static Logger logger = LogsConfig.getLogger();
-    //GenerateData generateData = new GenerateData();
 
     @Given("User is on the Edit Account page")
     public void userIsOnTheEditAccountPage() {
@@ -41,15 +37,7 @@ public class EditAccountSteps {
             editAccountPage.setInput(field, value);
         });
         CommonActions.clickOnWebElement(editAccountPage.getSubmitContinue());
-        logger.info("User was redirected on Account page");
     }
-
-    @And("The User click on Continue button")
-    public void theUserClickOnContinueButton() {
-        CommonActions.clickOnWebElement(editAccountPage.getSubmitContinue());
-
-    }
-
 
     @Then("The Account Information  contain updated account information:")
     public void theAccountInformationContainUpdatedAccountInformation(DataTable table) {

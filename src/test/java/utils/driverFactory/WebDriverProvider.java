@@ -8,7 +8,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import static utils.property_configurator.PropertyConfigurator.getProperty;
 
 public class WebDriverProvider {
-private static final String BROWSER_NAME = getProperty("BROWSER").toLowerCase();
+    private static final String BROWSER_NAME = getProperty("BROWSER").toLowerCase();
     private WebDriver driver;
 
     public void initializeDriver() {

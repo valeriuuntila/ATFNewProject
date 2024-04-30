@@ -1,11 +1,11 @@
-package steps;
+package ui.steps;
 
-import general_actions.CommonActions;
+import ui.general_actions.CommonActions;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
-import pages.AccountPage;
+import ui.pages.AccountPage;
 import scenario_context.ScenarioContext;
 import utils.logs_config.LogsConfig;
 
@@ -24,9 +24,6 @@ public class AccountSteps {
 
     }
 
-    @And("the User's login is successful")
-    public void theUserSLoginIsSuccessful() {
-    }
 
     @Then("Alert message:{string} is displayed on account page.")
     public void alertMessageIsDisplayedOnAccountPage(String SuccessEditMessage) {
@@ -39,6 +36,5 @@ public class AccountSteps {
     @And("User clicks on the Edit Account page")
     public void userClicksOnTheEditAccountPage() {
         CommonActions.clickOnWebElement(accountPage.getEditAccountIcon());
-        logger.info("Edit Account page is displayed");
     }
 }

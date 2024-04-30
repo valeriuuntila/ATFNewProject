@@ -1,4 +1,4 @@
-package general_actions;
+package ui.general_actions;
 
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.NoSuchElementException;

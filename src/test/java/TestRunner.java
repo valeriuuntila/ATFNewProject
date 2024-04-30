@@ -7,8 +7,8 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = {"src/test/resources/features/API", "src/test/resources/features/UI"},
         stepNotifications = true,
-        glue = {"steps", "api"},
-        tags = "@UI",
+        glue = {"ui/steps", "api"},
+        //tags = "@UI",
         //tags = "@API",
         monochrome = true,
         plugin = {"pretty", "html:reports/cucumber-reports/cucumber-report.html"})
