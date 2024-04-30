@@ -1,11 +1,11 @@
-package steps;
+package ui.steps;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
-import pages.LoginPage;
+import ui.pages.LoginPage;
 import scenario_context.ScenarioContext;
 import utils.faker.FakeGenerateData;
 import utils.logs_config.LogsConfig;

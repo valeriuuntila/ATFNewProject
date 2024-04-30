@@ -3,15 +3,13 @@ package api.dtos;
 public class CreateUserData {
     private String name;
     private String job;
-    private String id;
 
     public CreateUserData() {
     }
 
-    public CreateUserData(String name, String job, String id) {
+    public CreateUserData(String name, String job) {
         this.name = name;
         this.job = job;
-        this.id = id;
     }
 
     public String getName() {
@@ -22,7 +20,4 @@ public class CreateUserData {
         return job;
     }
 
-    public String getId() {
-        return id;
-    }
 }

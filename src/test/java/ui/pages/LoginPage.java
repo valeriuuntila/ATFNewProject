@@ -1,7 +1,7 @@
-package pages;
+package ui.pages;
 
 
-import general_actions.CommonActions;
+import ui.general_actions.CommonActions;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -26,17 +26,6 @@ public class LoginPage extends Page {
         super(driver);
     }
 
-    public WebElement getEmailInput() {
-        return emailInput;
-    }
-
-    public WebElement getPasswordInput() {
-        return passwordInput;
-    }
-
-    public WebElement getSubmitLogin() {
-        return submitLogin;
-    }
     public String getAlertMessage() {
         return alertMessageContainer.getText();
     }
@@ -51,8 +40,6 @@ public class LoginPage extends Page {
             loginWithCredentials(email, password);
         }
     }
-
-
 
 }
 

@@ -8,18 +8,14 @@ import java.util.Locale;
 
 public class FakeGenerateData {
 
+    FakeValuesService fakeValuesService = new FakeValuesService(
+            new Locale("en-GB"), new RandomService());
     public String generateEmail() {
-        FakeValuesService fakeValuesService = new FakeValuesService(
-                new Locale("en-GB"), new RandomService());
-
         String email = fakeValuesService.bothify("????##@gmail.com");
         return email;
     }
 
     public String generateAlphaNumericValues() {
-        FakeValuesService fakeValuesService = new FakeValuesService(
-                new Locale("en-GB"), new RandomService());
-
         String alphaNumericString = fakeValuesService.regexify("[a-z1-9]{10}");
         return alphaNumericString;
     }
