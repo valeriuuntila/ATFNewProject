@@ -17,7 +17,7 @@
         <cucumber-java.version>7.15.0</cucumber-java.version>
         <junit.version>4.13.2</junit.version>
         <junit-jupiter-api.version>5.10.2</junit-jupiter-api.version>
-        <selenium-java.version>4.19.1</selenium-java.version>
+        <selenium-java.version>4.20.0</selenium-java.version>
         <rest-assured.version>5.4.0</rest-assured.version>
         <commons-codec.version>1.16.0</commons-codec.version>
         <cucumber-core.version>7.15.0</cucumber-core.version>
@@ -28,20 +28,18 @@
         <junit-jupiter.version>5.10.1</junit-jupiter.version>
         <assertj-core.version>3.25.3</assertj-core.version>
         <log4j-core.version>2.22.1</log4j-core.version>
-        <reflections.version>0.10.2</reflections.version>
         <json-path.version>5.4.0</json-path.version>
         <xml-path.version>5.4.0</xml-path.version>
         <json-schema-validator.version>5.4.0</json-schema-validator.version>
         <log4j-api.version>2.23.1</log4j-api.version>
         <log4j-core.version>2.23.1</log4j-core.version>
+        <maven-deploy-plugin.version>3.1.1</maven-deploy-plugin.version>
+        <javafaker.version>1.0.2</javafaker.version>
 
         <maven.compiler.plugin.version>3.11.0</maven.compiler.plugin.version>
         <maven.surefire.plugin.version>3.2.1</maven.surefire.plugin.version>
         <maven.compiler.source.version>17</maven.compiler.source.version>
         <maven.compiler.target.version>17</maven.compiler.target.version>
-
-
-
 
     </properties>
     <dependencies>
@@ -143,12 +141,6 @@
             <artifactId>log4j-core</artifactId>
             <version>${log4j-core.version}</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.reflections/reflections -->
-        <dependency>
-            <groupId>org.reflections</groupId>
-            <artifactId>reflections</artifactId>
-            <version>${reflections.version}</version>
-        </dependency>
         <dependency>
             <groupId>io.rest-assured</groupId>
             <artifactId>json-path</artifactId>
@@ -176,20 +168,16 @@
         <dependency>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-deploy-plugin</artifactId>
-            <version>3.1.1</version>
+            <version>${maven-deploy-plugin.version}</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/com.github.javafaker/javafaker -->
         <dependency>
             <groupId>com.github.javafaker</groupId>
             <artifactId>javafaker</artifactId>
-            <version>1.0.2</version>
+            <version>${javafaker.version}</version>
         </dependency>
 
-
-
-
     </dependencies>
-
 
     <build>
         <plugins>
