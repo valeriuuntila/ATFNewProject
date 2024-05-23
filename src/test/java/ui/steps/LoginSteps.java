@@ -3,52 +3,51 @@ package ui.steps;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
 import org.openqa.selenium.WebDriver;
+import scenario.context.ContextKeys;
+import scenario.context.ScenarioContext;
 import ui.pages.LoginPage;
-import scenario_context.ScenarioContext;
 import utils.faker.FakeGenerateData;
-import utils.logs_config.LogsConfig;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class LoginSteps {
-    private final static Logger logger = LogsConfig.getLogger();
     private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
-    LoginPage loginPage = new LoginPage(((WebDriver) scenarioContext.getContext("DRIVER")));
+    LoginPage loginPage = new LoginPage(((WebDriver) scenarioContext.getContext(ContextKeys.DRIVER)));
     FakeGenerateData generateData = new FakeGenerateData();
 
-
     @Given("user is on the Login page")
-    public void userIsOnTheLoginPage() {
-        logger.info(" User is on Login Page");
+    public void loadLoginPage() {
+        LogManager.getLogger().info(" User is on Login Page");
     }
 
     @Then("Error message:{string} is displayed")
-    public void errorMessageIsDisplayed(String errorMessage) {
+    public void showErrorMessage(String errorMessage) {
         assertThat(loginPage.getAlertMessage())
-                .as("Alert error message should be displayed on Account page")
+                .as("Alert error message should be equal to: " + errorMessage)
                 .isEqualTo(errorMessage);
-        logger.info("Alert message is displayed: " + loginPage.getAlertMessage() + " for login attempts with wrong credentials");
+        LogManager.getLogger().info("Alert message is displayed: " + loginPage.getAlertMessage() + " for login attempts with wrong credentials");
     }
 
+    @Given("user is logged in with valid credentials email: {string} and password: {string}")
     @When("user logs in with valid credentials email: {string} and password: {string}")
-    public void userLogsInWithValidCredentialsEmailAndPassword(String email, String password) {
-        loginPage.loginWithCredentials(email, password);
-        logger.info("The user has successfully logged in");
+    public void loginUser(String email, String password) {
+        loginPage.userLogin(email, password);
+        LogManager.getLogger().info("The user has successfully logged in");
     }
 
     @When("Wrong credentials are generated")
-    public void fakeDataIsGenerated() {
+    public void generateFakeData() {
         String generateEmail = generateData.generateEmail();
         String generatePassword = generateData.generateAlphaNumericValues();
-        loginPage.loginWithCredentials(generateEmail, generatePassword);
+        loginPage.userLogin(generateEmail, generatePassword);
     }
 
     @When("the user try to enter {} the following credentials: {} and {}")
-    public void theUserTryToEnterTimesTheFollowingInvalidCredentialsAnd(int times, String email, String password) {
-        loginPage.loginWithSameCredentialsForNTimes(email, password, times);
-        logger.info("Login with credentials, email: " + email
+    public void attemptsInvalidLogins(int times, String email, String password) {
+        loginPage.userSameLoginNTimes(email, password, times);
+        LogManager.getLogger().info("Login with credentials, email: " + email
                 + " and password: " + password
                 + " was performed for " + times + " times");
     }

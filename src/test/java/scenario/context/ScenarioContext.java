@@ -1,4 +1,4 @@
-package scenario_context;
+package scenario.context;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,10 +6,9 @@ import java.util.Map;
 public class ScenarioContext {
 
     private static ScenarioContext instance;
-    private static Map<String, Object> scenarioContext;
-
+    private static Map<ContextKeys, Object> scenarioContext;
     private ScenarioContext() {
-        scenarioContext = new HashMap<String, Object>();
+        scenarioContext = new HashMap<>();
     }
 
     public static ScenarioContext getInstance() {
@@ -18,16 +17,13 @@ public class ScenarioContext {
         }
         return instance;
     }
-
     public static void clearContext(){
         scenarioContext.clear();
     }
-
-    public void setContext(String key, Object value) {
+    public void setContext(ContextKeys key, Object value) {
         scenarioContext.put(key, value);
     }
-
-    public Object getContext(String key) {
+    public Object getContext(ContextKeys key) {
         return scenarioContext.get(key);
     }
 
