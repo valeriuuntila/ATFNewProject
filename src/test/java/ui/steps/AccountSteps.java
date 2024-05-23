@@ -1,40 +1,38 @@
 package ui.steps;
 
-import ui.general_actions.CommonActions;
 import io.cucumber.java.en.And;
+import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
-import org.apache.logging.log4j.Logger;
+import io.cucumber.java.en.When;
+import org.apache.logging.log4j.LogManager;
 import org.openqa.selenium.WebDriver;
+import scenario.context.ContextKeys;
+import scenario.context.ScenarioContext;
+import ui.general.actions.CommonActions;
 import ui.pages.AccountPage;
-import scenario_context.ScenarioContext;
-import utils.logs_config.LogsConfig;
 
 import static org.assertj.core.api.Assertions.assertThat;
+import static scenario.context.ContextKeys.DRIVER;
 
 public class AccountSteps {
-    private static final Logger logger = LogsConfig.getLogger();
-
     private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
-    AccountPage accountPage = new AccountPage(((WebDriver) scenarioContext.getContext("DRIVER")));
+    AccountPage accountPage = new AccountPage(((WebDriver) scenarioContext.getContext(ContextKeys.DRIVER)));
     @Then("the User is redirected to the Account page")
-    public void theUserIsRedirectedToTheAccountPage() {
+    public void redirectToAccountPage() {
         assertThat(accountPage.getOpenAccountPageTitle().isDisplayed())
                 .as("Account page should be displayed");
-        logger.info("Account page is displayed");
-
+        LogManager.getLogger().info("Account page is displayed");
     }
-
-
     @Then("Alert message:{string} is displayed on account page.")
-    public void alertMessageIsDisplayedOnAccountPage(String SuccessEditMessage) {
+    public void showAccountPageAlertMessage(String SuccessEditMessage) {
         assertThat(accountPage.getAlertSuccessMessageContainer().getText())
                 .as("Alert Success Message should be displayed on Account page")
                 .isEqualToIgnoringWhitespace(SuccessEditMessage);
-        logger.info("Alert Success Message is displayed: " + accountPage.getAlertSuccessMessageContainer().getText());
+        LogManager.getLogger().info("Alert Success Message is displayed: " + accountPage.getAlertSuccessMessageContainer().getText());
     }
-
-    @And("User clicks on the Edit Account page")
-    public void userClicksOnTheEditAccountPage() {
+    @Given("User has opened Edit Account page")
+    @When("User opens Edit Account page")
+    public void navigateToEditAccountPage() {
         CommonActions.clickOnWebElement(accountPage.getEditAccountIcon());
     }
 }

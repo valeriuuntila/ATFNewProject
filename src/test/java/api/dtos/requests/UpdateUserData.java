@@ -1,23 +1,21 @@
-package api.dtos;
+package api.dtos.requests;
 
-public class CreateUserData {
+public class UpdateUserData {
     private String name;
     private String job;
 
-    public CreateUserData() {
+    public UpdateUserData() {
     }
-
-    public CreateUserData(String name, String job) {
+    public UpdateUserData(String name, String job) {
         this.name = name;
         this.job = job;
     }
-
     public String getName() {
         return name;
     }
-
     public String getJob() {
         return job;
     }
+
 
 }

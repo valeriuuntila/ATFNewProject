@@ -6,17 +6,14 @@ import org.openqa.selenium.support.FindBy;
 public class AccountPage extends Page {
     @FindBy(xpath = "//h2[text()='My Account']")
     private WebElement openAccountPageTitle;
-
     @FindBy(xpath = "//div[contains(@class,'alert-success')]")
     private WebElement alertSuccessMessageContainer;
-
     @FindBy(xpath = "//a[text()=' Edit your account information']")
     private WebElement editAccountIcon;
 
     public AccountPage(WebDriver driver) {
         super(driver);
     }
-
     public WebElement getOpenAccountPageTitle() {
         return openAccountPageTitle;
     }
@@ -26,5 +23,4 @@ public class AccountPage extends Page {
     public WebElement getEditAccountIcon() {
         return editAccountIcon;
     }
-
 }
