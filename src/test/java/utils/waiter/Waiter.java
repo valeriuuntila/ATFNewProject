@@ -17,7 +17,7 @@ public class Waiter {
         try {
             waiter = new FluentWait<>(((WebDriver) scenarioContext.getContext(ContextKeys.DRIVER)))
                     .withTimeout(Duration.ofSeconds(Long.parseLong(PropertyConfigurator.getProperty("TIMEOUT.SECONDS"))))
-                    .pollingEvery(Duration.ofSeconds(Long.parseLong(PropertyConfigurator.getProperty("POLLINGINTERVAL.SECONDS"))));
+                    .pollingEvery(Duration.ofSeconds(Long.parseLong(PropertyConfigurator.getProperty("POLLING.INTERVAL.SECONDS"))));
         } catch (NoSuchElementException e) {
             throw new NoSuchElementException("Element was not displayed within the timeout period", e);
         }

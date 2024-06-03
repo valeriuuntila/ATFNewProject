@@ -3,7 +3,6 @@ package ui.general.actions;
 import org.apache.logging.log4j.LogManager;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import scenario.context.ScenarioContext;
 import utils.waiter.Waiter;
 
 public class CommonActions {
@@ -15,6 +14,7 @@ public class CommonActions {
         webElement.click();
         LogManager.getLogger().info("Click on element: " + tagName);
     }
+
     public static void sendKeys(WebElement field, String inputData) {
         Waiter.waiter.until(ExpectedConditions.visibilityOf(field));
         Waiter.waiter.until(ExpectedConditions.elementToBeClickable(field));

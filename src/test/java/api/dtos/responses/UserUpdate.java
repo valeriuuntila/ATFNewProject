@@ -1,8 +1,8 @@
 package api.dtos.responses;
 
-import api.dtos.requests.UpdateUserData;
+import api.dtos.requests.UserData;
 
-public class UserUpdate extends UpdateUserData {
+public class UserUpdate extends UserData {
     private String updatedAt;
     public UserUpdate() {
     }

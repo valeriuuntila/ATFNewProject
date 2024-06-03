@@ -1,12 +1,13 @@
 package api.dtos.requests;
 
-public class UpdateUserData {
+public class UserData {
     private String name;
     private String job;
 
-    public UpdateUserData() {
+    public UserData() {
     }
-    public UpdateUserData(String name, String job) {
+
+    public UserData(String name, String job) {
         this.name = name;
         this.job = job;
     }
@@ -16,6 +17,5 @@ public class UpdateUserData {
     public String getJob() {
         return job;
     }
-
 
 }

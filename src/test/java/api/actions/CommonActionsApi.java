@@ -1,9 +1,8 @@
 package api.actions;
 
 import api.Specifications;
-import api.dtos.requests.CreateUserData;
 import api.dtos.requests.SuccessLogin;
-import api.dtos.requests.UpdateUserData;
+import api.dtos.requests.UserData;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;
 import io.restassured.response.Response;
@@ -12,15 +11,12 @@ import scenario.context.ContextKeys;
 import scenario.context.ScenarioContext;
 import utils.endpoints.EndPoints;
 
-
 import static io.restassured.RestAssured.given;
 
 public class CommonActionsApi {
     private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
-    //TODO: de intrebat daca e ok sa punem in metode?
-    UpdateUserData userUpdate = new UpdateUserData("morpheus", "zion resident");
-    CreateUserData userCreate = new CreateUserData("morpheus", "leader");
-
+    UserData userUpdate = new UserData("morpheus", "zion resident");
+    UserData userCreate = new UserData("morpheus", "leader");
     SuccessLogin userWithoutPassword = new SuccessLogin("peter@klaven", "");
 
     @Given("Specifications have expected response code {int}")

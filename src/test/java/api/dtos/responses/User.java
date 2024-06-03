@@ -1,13 +1,13 @@
 package api.dtos.responses;
 
-import api.dtos.requests.CreateUserData;
+import api.dtos.requests.UserData;
 
-public class UserCreate extends CreateUserData {
+public class User extends UserData {
     private String createdAt;
     private String id;
-    public UserCreate() {
+    public User() {
     }
-    public UserCreate(String name, String job, String id, String createdAt) {
+    public User(String name, String job, String id, String createdAt) {
         super(name, job);
         this.createdAt = createdAt;
         this.id = id;
