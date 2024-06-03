@@ -13,7 +13,7 @@ public class WebDriverProvider {
 
     public static WebDriver getDriver()  {
         if (driver == null) {
-            LogManager.getLogger().info("WebDriver has not been initialized. Call initializeDriver() first.");
+            LogManager.getLogger().debug("WebDriver has not been initialized. Calling initializeDriver() first.");
             return initializeDriver();
         }
         return driver;
@@ -23,7 +23,7 @@ public class WebDriverProvider {
         return getProperty("BROWSER").toLowerCase();
     }
 
-    public static WebDriver initializeDriver()   {
+    private static WebDriver initializeDriver()   {
         switch (getBrowserName()) {
             case "firefox" -> driver = initFirefoxDriver();
             case "edge" -> driver = initEdgeDriver();
@@ -33,17 +33,17 @@ public class WebDriverProvider {
     }
 
     private static WebDriver initChromeDriver() {
-        LogManager.getLogger().info("Chrome Driver is initializing");
+        LogManager.getLogger().debug("Chrome Driver is initializing");
         return new ChromeDriver();
     }
 
     private static WebDriver initFirefoxDriver() {
-        LogManager.getLogger().info("FireFox Driver is initializing");
+        LogManager.getLogger().debug("FireFox Driver is initializing");
         return new FirefoxDriver();
     }
 
     private static WebDriver initEdgeDriver() {
-        LogManager.getLogger().info("Edge Driver is initializing");
+        LogManager.getLogger().debug("Edge Driver is initializing");
         return new EdgeDriver();
     }
 

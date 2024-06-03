@@ -2,7 +2,7 @@ package api.actions;
 
 import api.dtos.responses.DataAttributes;
 import api.dtos.responses.UnSuccessLogin;
-import api.dtos.responses.UserCreate;
+import api.dtos.responses.User;
 import api.dtos.responses.UserUpdate;
 import io.cucumber.java.en.Then;
 import io.restassured.response.Response;
@@ -66,12 +66,12 @@ public class UserActions {
 
     @Then("The time for user creation is less than {int} seconds")
     public void verifyCreatedAtTimestampIsBeforeCurrentTimePlusSeconds(int sec) {
-        UserCreate createResponse = ((Response) scenarioContext.getContext(ContextKeys.RESPONSE))
-                .as(UserCreate.class);
+        User createResponse = ((Response) scenarioContext.getContext(ContextKeys.RESPONSE))
+                .as(User.class);
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSSX");
-        LocalDateTime expectedTime = LocalDateTime.now(UTC).plusSeconds(sec);
         LocalDateTime actualTime = LocalDateTime.parse(createResponse.getCreatedAt(), formatter);
+        LocalDateTime expectedTime = LocalDateTime.now(UTC).plusSeconds(sec);
 
         assertThat(actualTime)
                 .as("True If Actual Time is before Expected Time + " + sec + "sec.")

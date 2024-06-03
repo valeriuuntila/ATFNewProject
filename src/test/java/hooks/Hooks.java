@@ -18,20 +18,21 @@ import static utils.property.configurator.PropertyConfigurator.getProperty;
 
 public class Hooks {
     private static final ScenarioContext scenarioContext = ScenarioContext.getInstance();
+
     @Before("@UI")
     public void before(Scenario scenario) {
         ScreenShotUtil.setScenario(scenario);
         String scenarioName = scenario.getName().trim().replaceAll(" ", "_");
         ThreadContext.put("scenarioName", scenarioName);
         Configurator.reconfigure();
-        WebDriver driver =WebDriverProvider.getDriver();
-//        webDriverProvider.initializeDriver();
-        LogManager.getLogger().info("New driver instantiated");
-        driver.get(getProperty("URL"));
-        LogManager.getLogger().info("Web application launched");
+
+        WebDriver driver = WebDriverProvider.getDriver();
+        LogManager.getLogger().debug("New driver instantiated");
+        driver.get(getProperty("LOGIN.PAGE.URL"));
+        LogManager.getLogger().debug("Web application launched");
         driver.manage().window().maximize();
-        LogManager.getLogger().info("Window maximized");
-        LogManager.getLogger().info("Starting scenario: " + scenario.getName());
+        LogManager.getLogger().debug("Window maximized");
+        LogManager.getLogger().debug("Starting scenario: " + scenario.getName());
         scenarioContext.setContext(ContextKeys.DRIVER, driver);
     }
 
@@ -43,22 +44,22 @@ public class Hooks {
     }
 
     @AfterStep("@UI")
-    public void afterStep(Scenario scenario)   {
+    public void afterStep(Scenario scenario) {
         //validate if scenario has failed
-        if (scenario.isFailed()) {
-        ScreenShotUtil.takeScreenShot();
-      }
-    }
+        //if (scenario.isFailed()) {
+            ScreenShotUtil.takeScreenShot();
+        }
+    //}
 
     @After("@UI")
     public void after(Scenario scenario) {
-        LogManager.getLogger().info("Finished scenario: " + scenario.getName());
+        LogManager.getLogger().debug("Finished scenario: " + scenario.getName());
         ((WebDriver) scenarioContext.getContext(ContextKeys.DRIVER)).manage().deleteAllCookies();
-        LogManager.getLogger().info("Deleting Cookies");
+        LogManager.getLogger().debug("Deleting Cookies");
         WebDriverProvider.quitDriver();
-        LogManager.getLogger().info("Driver closed");
+        LogManager.getLogger().debug("Driver closed");
         ScenarioContext.clearContext();
-        LogManager.getLogger().info("Context cleared");
+        LogManager.getLogger().debug("Context cleared");
     }
 
 }

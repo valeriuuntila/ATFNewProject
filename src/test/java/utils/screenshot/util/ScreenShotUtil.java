@@ -26,7 +26,6 @@ public class ScreenShotUtil {
     public static void takeScreenShot()   {
         TakesScreenshot scrShot = ((TakesScreenshot) (scenarioContext.getContext(ContextKeys.DRIVER)));
         byte[] srcFile = scrShot.getScreenshotAs(OutputType.BYTES);
-        //String reportTimeStamp = new SimpleDateFormat(getProperty("DATE.FORMAT")).format(new Date());
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern(getProperty("DATE.FORMAT.SCREENSHOT"));
         LocalDateTime now = LocalDateTime.now();
         String formattedDate = now.format(formatter);
