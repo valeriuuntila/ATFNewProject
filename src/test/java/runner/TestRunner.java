@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
         //tags = "@UI",
         //tags = "@API",
         //tags = "@NegativeDifferentError",
-        //tags = "@Login",
+        //tags = "@GetResourceList",
         monochrome = true,
         plugin = {"pretty", "html:reports/cucumber.reports/cucumber.report.html"})
 public class TestRunner {
